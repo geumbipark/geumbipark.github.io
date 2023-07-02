@@ -21,7 +21,5 @@ Hello! I am a fourth-year Ph.D. student in economics at [Texas A&M University](h
 
 <b>`Fields of Interest:`</b> Macroeconomics, Firm Dynamics, Industrial Organization, Labor 
 
-
-Research In
-Edit `_bibliography/papers.bib` and Jekyll will render your [research page](/al-folio/research/) automatically.
+[<b>`CV`</b>](/cv/)
 

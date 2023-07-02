@@ -21,5 +21,8 @@ Hello! I am a fourth-year Ph.D. student in economics at [Texas A&M University](h
 
 <b>`Fields of Interest:`</b> Macroeconomics, Firm Dynamics, Industrial Organization, Labor 
 
-[<b>`CV`</b>](/cv/)
+<b>`Curriculum Vitae`</b>[CV](/cv/)
+
+<b>`Contact Information:`</b> [geumbi.park@tamu.edu](mailto:geumbi.park@tamu.edu)
+
 

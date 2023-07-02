@@ -26,6 +26,7 @@ Hello! I am a fourth-year Ph.D. student in economics at [Texas A&M University](h
 <b>`Contact Information:`</b> [geumbi.park@tamu.edu](mailto:geumbi.park@tamu.edu)
 
 <b>`Mailing Address:`</b> 
+
 Department of Economics, TAMU
 2935 Research Parkway Suite 200
 College Station, TX 77843

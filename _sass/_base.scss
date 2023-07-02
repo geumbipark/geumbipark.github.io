@@ -26,7 +26,7 @@ hr {
 table {
   td,
   th {
-    font-size: 1rem;
+    font-size: 3rem;
   }
 
   th {
@@ -62,7 +62,7 @@ blockquote {
   border-left: 2px solid var(--global-theme-color);
   margin: 1.5em 10px;
   padding: 0.5em 10px;
-  font-size: 1.2rem;
+  font-size: 3.2rem;
 }
 
 // Math
@@ -75,7 +75,7 @@ blockquote {
 // Caption
 
 .caption {
-  font-size: 0.875rem;
+  font-size: 2.875rem;
   margin-top: 0.75rem;
   margin-bottom: 1.5rem;
   text-align: center;
@@ -151,7 +151,7 @@ blockquote {
 
 .post-description {
   margin-bottom: 2rem;
-  font-size: 0.875rem;
+  font-size: 2.875rem;
 
   a {
     color: inherit;
@@ -231,7 +231,7 @@ blockquote {
   .navbar-brand.social {
     padding-bottom: 0;
     padding-top: 0;
-    font-size: 1.7rem;
+    font-size: 3.7rem;
 
     a {
       i::before {
@@ -305,7 +305,7 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 6rem;
 
     a {
       i::before {
@@ -322,7 +322,7 @@ blockquote {
   }
 
   .contact-note {
-    font-size: 0.8rem;
+    font-size: 2.8rem;
   }
 }
 
@@ -352,7 +352,7 @@ footer.sticky-bottom {
   border-top: 1px solid var(--global-divider-color);
   padding-top: 40px;
   padding-bottom: 40px;
-  font-size: 0.9rem;
+  font-size: 2.9rem;
 }
 
 // CV
@@ -442,7 +442,7 @@ footer.sticky-bottom {
 
     .post-meta {
       color: var(--global-text-color-light);
-      font-size: 0.875rem;
+      font-size: 2.875rem;
       margin-bottom: 0;
     }
 
@@ -553,7 +553,7 @@ footer.sticky-bottom {
 
   h1 {
     color: var(--global-theme-color);
-    font-size: 2rem;
+    font-size: 4rem;
     text-align: center;
     margin-top: 1em;
     margin-bottom: 1em;
@@ -563,7 +563,7 @@ footer.sticky-bottom {
     margin-bottom: 1rem;
 
     span {
-      font-size: 1.5rem;
+      font-size: 3.5rem;
     }
   }
 
@@ -679,7 +679,7 @@ footer.sticky-bottom {
       }
 
       .hidden {
-        font-size: 0.875rem;
+        font-size: 2.875rem;
         max-height: 0px;
         overflow: hidden;
         text-align: justify;
@@ -695,7 +695,7 @@ footer.sticky-bottom {
         }
 
         pre {
-          font-size: 1em;
+          font-size: 3em;
           line-height: 1.4em;
           padding: 10px;
         }
@@ -762,13 +762,13 @@ html.transition *:after {
 .post {
   .post-meta {
     color: var(--global-text-color-light);
-    font-size: 0.875rem;
+    font-size: 2.875rem;
     margin-bottom: 0;
   }
 
   .post-tags {
     color: var(--global-text-color-light);
-    font-size: 0.875rem;
+    font-size: 2.875rem;
     padding-top: 0.25rem;
     padding-bottom: 1rem;
 
@@ -926,12 +926,12 @@ nav[data-toggle="toc"] {
   top: 5rem;
 
   .nav .nav>li>a {
-    font-size: .75rem;
+    font-size: 2.75rem;
   }
 
   .nav>li>a {
     color: var(--global-text-color);
-    font-size: .75rem;
+    font-size: 2.75rem;
 
     &:hover {
       color: var(--global-hover-color);
@@ -942,7 +942,7 @@ nav[data-toggle="toc"] {
   .nav-link.active {
     color: var(--global-theme-color);
     border-left-color: var(--global-theme-color);
-    font-size: .75rem;
+    font-size: 2.75rem;
 
     &:hover {
       color: var(--global-hover-color);
@@ -1029,7 +1029,7 @@ nav[data-toggle="toc"] {
 
   .post-meta {
     color: var(--global-text-color-light);
-    font-size: 0.875rem;
+    font-size: 2.875rem;
     margin-bottom: 0;
     padding-top: 0.5rem;
   }

@@ -19,18 +19,12 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! I am a fourth-year Ph.D. student in economics at [Texas A&M University](https://liberalarts.tamu.edu/economics/).  
 
-<br><b>`Fields of Interest:`</b></br> 
-Macroeconomics, Firm Dynamics, Industrial Organization, Labor 
+<b>`Fields of Interest:`</b>  Macroeconomics, Firm Dynamics, Industrial Organization, Labor 
 
-<br><b>`Curriculum Vitae:`</b></br> 
-[CV](/cv/)
+<b>`Curriculum Vitae:`</b>  [CV](/cv/)
 
-<br><b>`Contact Information:`</b><br>
-[geumbi.park@tamu.edu](mailto:geumbi.park@tamu.edu)
+<b>`Contact Information:`</b>  [geumbi.park@tamu.edu](mailto:geumbi.park@tamu.edu)
 
-<br><b>`Mailing Address:`</b> </br>
-Department of Economics, TAMU
-2935 Research Parkway Suite 200
-College Station, TX 77843
+<b>`Mailing Address:`</b>  2935 Research Parkway Suite 200, College Station, TX 77843
 
 

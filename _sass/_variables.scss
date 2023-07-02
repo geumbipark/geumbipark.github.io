@@ -27,6 +27,7 @@ $grey-color:          #828282 !default;
 $grey-color-light:    lighten($grey-color, 40%);
 $grey-color-dark:     #1C1C1D;
 $grey-900:            #212529;
+$tamu-maroon;         #500000;
 
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
@@ -34,5 +35,5 @@ $black-color: #000000 !default;
 
 // Theme colors
 
-$code-bg-color-light:     rgba($purple-color, 0.05);
+$code-bg-color-light:     rgba($tamu-maroon, 0.05);
 $code-bg-color-dark:      #2c3237 !default;

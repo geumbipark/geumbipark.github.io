@@ -18,5 +18,10 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hello! I am a fourth-year Ph.D. student in economics at [Texas A&M University](https://liberalarts.tamu.edu/economics/).  
+
+<b>`Fields of Interest:`</b> Macroeconomics, Firm Dynamics, Industrial Organization, Labor 
+
+
+Research In
 Edit `_bibliography/papers.bib` and Jekyll will render your [research page](/al-folio/research/) automatically.
 

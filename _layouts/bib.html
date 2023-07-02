@@ -58,13 +58,13 @@
           {%- endif -%}
 
           {%- if forloop.length > 1 -%}
-            {%- if forloop.first == false -%}&nbsp;{%- endif -%}
-            {%- if forloop.last and author_array_limit == author_array_size -%}&nbsp;{%- endif -%}
+            {%- if forloop.first == false -%},&nbsp;{%- endif -%}
+            {%- if forloop.last and author_array_limit == author_array_size -%}and&nbsp;{%- endif -%}
           {%- endif -%}
           {%- if author_is_self -%}
           {%- else -%}
             {%- if coauthor_url -%}
-              with <a href="{{coauthor_url}}"> {{author.first}} {{author.last}}</a>
+              with <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
             {%- else -%}
               {{author.first}} {{author.last}}
             {%- endif -%}
@@ -84,6 +84,7 @@
               {%- assign more_authors_show = more_authors_show | append: ", " -%}
             {%- endunless -%}
           {%- endfor -%}
+          , and
           <span
               class="more-authors"
               title="click to view {{more_authors_hide}}"
@@ -105,8 +106,8 @@
         </div>
 
         <!-- Journal/Book title and date -->
-        {% assign proceedings = "inproceedings,incollection" | split: %}
-        {% assign thesis = "thesis,mastersthesis,phdthesis" | split: %}
+        {% assign proceedings = "inproceedings,incollection" | split: ','%}
+        {% assign thesis = "thesis,mastersthesis,phdthesis" | split: ','%}
         {% if entry.type == "article" -%}
           {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
         {%- elsif proceedings contains entry.type -%}
@@ -134,7 +135,7 @@
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}
-            <a class="abstract btn btn-sm z-depth-0" role="button">ABSTRACT</a>
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
           {%- endif %}
           {%- if entry.arxiv %}
             <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>

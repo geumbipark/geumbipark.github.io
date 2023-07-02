@@ -1,7 +1,7 @@
 "Publication":
-  color: "#500000"
-  back_color: "#F6F2F2"
+  color: "#F6F2F2"
+  background-color: "#500000"
 
 "Working Papers":
-  color: "#500000"
-  back_color: "#F6F2F2"
+  color: "#F6F2F2"
+  background-color: "#500000"

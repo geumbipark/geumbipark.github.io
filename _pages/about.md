@@ -24,7 +24,7 @@ Hello! I am a fourth-year Ph.D. student in economics at [Texas A&M University](h
 Macroeconomics, Firm Dynamics, Industrial Organization, Labor 
 
 <b>`Curriculum Vitae:`</b><br>
-[PDF](/cv/cv_pdf/), [Preview](/cv/)
+[PDF](/assets/pdf/Geumbi_Park_CV_July2023.pdf/),  [Preview](/cv/)
 
 <b>`Contact Information:`</b><br>
 [geumbi.park@tamu.edu](mailto:geumbi.park@tamu.edu)

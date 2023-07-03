@@ -591,14 +591,14 @@ footer.sticky-bottom {
       }
 
       .abbr {
-        height: 2rem;
-        margin-bottom: 0.5rem;
+        height: 0rem;
+        margin-bottom: 0rem;
 
         abbr {
           display: inline-block;
           background-color: var(--global-theme-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
+          padding-left: 0rem;
+          padding-right: 0rem;
 
           a {
             color: white;

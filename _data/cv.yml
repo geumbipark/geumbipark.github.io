@@ -2,7 +2,7 @@
   type: time_table
   contents:
     - title: Ph.D. in Economics
-      institution: Texas A&M University
+      institution: Texas A<span>&#38;</span>M University
       year: 2025
 
     - title: M.A. in Economics

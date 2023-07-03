@@ -1,32 +1,40 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+#- title: General Information
+#  type: map
+#  contents:
+   # - name: Full Name
+   #   value: Geumbi Park
+   # - name: Date of Birth
+   #   value: 14th March 1879
+   # - name: Languages
+   #   value: English, Korean
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Ph.D. in Economics
+      institution: Texas A&M University
+      year: In progress
+     # description:
+     #   - Description 1.
+     #   - Description 2.
+     #  - title: Description 3.
+     #     contents:
+     #       - Sub-description 1.
+     #       - Sub-description 2.
+    - title: M.A. in Economics
+      institution: University of Virginia
+      year: 2019
+    #  description:
+    #    - Description 1.
+    #    - Description 2.
+   - title: M.A. in Economics
+    institution: Seoul National University
+    year: 2018
+  - title: B.A. in Economics and International Office Administration
+  institution: Ewha Womans University
+  year: 2015
+  description:
+      - Minor in Mathematics 
 
 - title: Experience
   type: time_table

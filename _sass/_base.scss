@@ -584,36 +584,6 @@ footer.sticky-bottom {
     li {
       margin-bottom: 1rem;
 
-      .preview {
-        width: 0%;
-        min-width: 0px;
-        max-width: 0px;
-      }
-
-      .abbr {
-        height: 0rem;
-        margin-bottom: 0rem;
-
-        abbr {
-          display: inline-block;
-          background-color: var(--global-theme-color);
-          padding-left: 0rem;
-          padding-right: 0rem;
-
-          a {
-            color: white;
-
-            &:hover {
-              text-decoration: none;
-            }
-          }
-        }
-
-        .award {
-          color: var(--global-theme-color) !important;
-          border: 1px solid var(--global-theme-color);
-        }
-      }
 
       .title {
         font-weight: bolder;

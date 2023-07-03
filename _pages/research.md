@@ -13,10 +13,9 @@ nav_order: 3
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
+<h1>Publications</h1>
 
 {% bibliography -f {{ site.scholar.bibliography2 }} %}
-
-<h1>Publications</h1>
 
 
 </div>

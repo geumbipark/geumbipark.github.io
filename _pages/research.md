@@ -9,7 +9,15 @@ nav_order: 3
 <!-- _pages/research.md -->
 <div class="publications">
 
+<h1>Working Papers</h1>
+
 {% bibliography -f {{ site.scholar.bibliography }} %}
+
+
+{% bibliography -f {{ site.scholar.bibliography2 }} %}
+
+<h1>Publications</h1>
+
 
 </div>
 

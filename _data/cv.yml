@@ -21,18 +21,17 @@
       value: Macroeconomics, Firm Dynamics
     - name: Secondary
       value: Industrial Organization, Labor
-   
-#- title: General Information
-#  type: map
-#  contents:
-#    - name: Full Name
-#      value: Geumbi Park
-#    - name: Date of Birth
-#      value: 16th April 
-#    - name: Languages
-#      value: English, Korean
 
-
+- title: Research Papers
+  type: nested_list
+  contents:
+    - title: Work in Progress
+      items: 
+        - "Product, Firm, and Market Dynamics over the Business Cycle"
+    - title: Publication
+      items:
+        - "Minimum Wages,Employment,and Business Closing: Evidence from Employer-Employee Matched Panel Data on Small Businesses" (with Jungmin Lee) <br>
+           accepted at <em>Journal of Human Resources</em>
 
 - title: Experience
   type: time_table

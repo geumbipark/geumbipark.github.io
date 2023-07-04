@@ -1,32 +1,42 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Geumbi Park
-    - name: Date of Birth
-      value: 16th April 1990
-    - name: Languages
-      value: English, Korean
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Texas A&M University
+      institution: Ph.D. in Economics
+      year: In Progress
+      
+    - title: University of Virginia
+      institution: M.A. in Economics
+      year: 2019
+
+   - title: Seoul National University
+     institution: M.A. in Economics
+     year: 2018
+
+  - title: Ewha Womans[<em>sic</em>] University
+    institution: B.A. in Economics and International Office Administration
+    year: 2015  
+     
+
+- title: Research Fields
+  type: map
+  contents:
+    - name: Primary
+      value: Macroeconomics, Firm Dynamics
+    - name: Secondary
+      value: Industrial Organization, Labor
+   
+#- title: General Information
+#  type: map
+#  contents:
+#    - name: Full Name
+#      value: Geumbi Park
+#    - name: Date of Birth
+#      value: 16th April 
+#    - name: Languages
+#      value: English, Korean
+
+
 
 - title: Experience
   type: time_table

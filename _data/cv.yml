@@ -7,12 +7,12 @@
     - title: University of Virginia
       institution: M.A. in Economics
       year: 2019
- #   - title: Seoul National University
- #     institution: M.A. in Economics
- #     year: 2018
- #   - title: Ewha Womans[<em>sic</em>] University
- #    institution: B.A. in Economics and International Office Administration
- #    year: 2015  
+    - title: Seoul National University
+      institution: M.A. in Economics
+      year: 2018
+    - title: Ewha Womans University
+     institution: B.A. in Economics and International Office Administration
+     year: 2015  
 
 - title: Research Fields
   type: map

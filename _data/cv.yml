@@ -12,7 +12,9 @@
       year: 2018
     - title: Ewha Womans[<em>sic</em>] University
       institution: B.A. in Economics and International Office Administration
-      year: 2015  
+      year: 2015
+      description:
+        - Minor in Mathematics
 
 - title: Research Fields
   type: map

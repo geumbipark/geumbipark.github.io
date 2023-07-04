@@ -3,7 +3,7 @@
   contents:
     - title: Texas A&M University
       institution: Ph.D. in Economics
-      year: In Progress
+      year: 2020-present
     - title: University of Virginia
       institution: M.A. in Economics
       year: 2019
@@ -37,7 +37,7 @@
   contents:
     - title: Research Assistant to Professor Sarah Zubairy
       institution: Texas A&M University
-      year: 2022 - present
+      year: 2022-present
     - title: Research Assistant to Professor Yoon Jo 
       institution: Texas A&M University
       year: Spring 2022
@@ -64,30 +64,21 @@
       institution: Teaching Assistant, Texas A&M University
       year: Spring 2021
       
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+#- title: Honors
+#  type: time_table
+#  contents:
+#    - title: PrincetonInitiative: Macro, Money, and Finance
+#      institution: Princeton University
+#      year: 2022
+#    - title: Graduate Assistantship 
+#      institution: Texas A&M University
+#      year: 2020-present
+#    - title: University Fellowship
+#      institution: University of Virginia
+#      year: 2018-2019 
+#    - title: Brain Korea 21 Scholarship
+#      institution: National Research Foundation of Korea
+#      year: Fall 2015, 2016-2017 
+#    - title: Dean's List
+#      institution: Ewha Womans[<em>sic</em>] University
+#      year: Fall 2013, Fall 2014

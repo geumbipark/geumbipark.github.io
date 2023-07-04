@@ -82,3 +82,14 @@
 #    - title: Dean's List
 #      institution: Ewha Womans[<em>sic</em>] University
 #      year: Fall 2013, Fall 2014
+
+- title: Additional Information
+  type: map
+  contents:
+    - name: Language
+      value: English (Fluent), Korean (Native)
+    - name: Computation
+      value: Julia, Matlab, Python, Stata
+    - name: Citizenship
+      value: Republic of Korea
+      

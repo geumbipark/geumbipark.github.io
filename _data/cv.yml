@@ -64,24 +64,33 @@
       institution: Teaching Assistant, Texas A&M University
       year: Spring 2021
       
-#- title: Honors
-#  type: time_table
-#  contents:
-#    - title: PrincetonInitiative: Macro, Money, and Finance
-#      institution: Princeton University
-#      year: 2022
-#    - title: Graduate Assistantship 
-#      institution: Texas A&M University
-#      year: 2020-present
-#    - title: University Fellowship
-#      institution: University of Virginia
-#      year: 2018-2019 
-#    - title: Brain Korea 21 Scholarship
-#      institution: National Research Foundation of Korea
-#      year: Fall 2015, 2016-2017 
-#    - title: Dean's List
-#      institution: Ewha Womans[<em>sic</em>] University
-#      year: Fall 2013, Fall 2014
+- title: Honors
+  type: time_table
+  contents:
+    - title: PrincetonInitiative: Macro, Money, and Finance
+      institution: Princeton University
+      year: 2022
+    - title: Graduate Assistantship 
+      institution: Texas A&M University
+      year: 2020-present
+    - title: University Fellowship
+      institution: University of Virginia
+      year: 2018-2019 
+    - title: Research Grant<span>&#58;</span> Institute for Gender Research 
+      institution: Seoul National University
+      year: 2017-2018 
+    - title: Research Grant<span>&#58;</span> Institute of Health & Environment 
+      institution: Seoul National University
+      year: 2016-2017       
+    - title: Research Grant<span>&#58;</span> Center for Social Science 
+      institution: Seoul National University
+      year: 2016 
+    - title: Brain Korea 21 Scholarship
+      institution: National Research Foundation of Korea
+      year: Fall 2015, 2016-2017 
+    - title: Dean's List
+      institution: Ewha Womans[<em>sic</em>] University
+      year: Fall 2013, Fall 2014
 
 - title: Additional Information
   type: map

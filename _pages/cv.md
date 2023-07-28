@@ -1,8 +1,8 @@
 ---
-layout: cv
+layout: default
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 2
-cv_pdf: Geumbi_Park_CV.pdf
+cv_pdf: /assets/pdf/Geumbi_Park_CV.pdf
 ---

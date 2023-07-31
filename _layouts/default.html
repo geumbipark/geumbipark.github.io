@@ -7,7 +7,7 @@
     <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
   {%- endif -%}
   {%- if page.redirect_to -%}
-  <meta http-equiv="refresh" content="0; url={{ page.redirect_to }}" target="_blank" />
+  <meta http-equiv="refresh" content="0; url={{ page.redirect_to }}" target="_blank" rel="noopener noreferrer" />
   {%- endif -%}
   {% include head.html %}
   </head>

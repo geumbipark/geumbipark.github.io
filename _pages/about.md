@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 <!-- _pages/about.md -->
 <div class="myname">
 
-<h1> <strong>{{ site.first_name }}</strong> {{ site.last_name }}</h1>
+<h1> {{ site.first_name }} {{ site.last_name }}</h1>
 
 </div>
 

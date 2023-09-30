@@ -12,11 +12,9 @@ nav_order: 3
 
 <h1>Work in Progress</h1>
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
 
 <h1>Publications</h1>
 
-{% bibliography -f {{ site.scholar.bibliography2 }} %}
 
 
 </div>

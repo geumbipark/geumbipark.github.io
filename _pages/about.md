@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am a fourth-year Ph.D. student in economics at [Texas A&M University](https://liberalarts.tamu.edu/economics/).  <br><br>
+<h2>Hello! I am a fourth-year Ph.D. student in economics at [Texas A&M University](https://liberalarts.tamu.edu/economics/).  <br><br></h2>
 
 
 <b>`Fields of Interest:`</b><br>

@@ -14,10 +14,11 @@ nav_order: 3
 
 <h2>Product Market Dynamics over the Business Cycle: Market Structure and Shock Propagation</h2>
 
+<br>
+<br>
 <h1>Publications</h1>
 
-<h2>Minimum Wage, Employment, and Margins of Adjustment: Evidence from Employer-Employee Matched Panel Data </h2>
-
+<h2>Minimum Wage, Employment, and Margins of Adjustment: Evidence from Employer-Employee Matched Panel Data</h2>
 (with Jungmin Lee)
 Accepted, Journal of Human Resources
 

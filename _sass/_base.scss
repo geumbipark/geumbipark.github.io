@@ -5,6 +5,7 @@
 // Typography
 
 p,
+h1,
 h2,
 h3,
 h4,
@@ -18,9 +19,7 @@ strong {
   color: var(--global-text-color);
   font-size: 1.1rem;
 }
-h1 {
-  color: var(--global-text-color);
-}
+
 
 hr {
   border-top: 1px solid var(--global-divider-color);

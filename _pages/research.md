@@ -16,7 +16,9 @@ nav_order: 3
 
 <h1>Publications</h1>
 
-Minimum Wage, Employment, and Margins of Adjustment: Evidence from Employer-Employee Matched Panel Data (with Jungmin Lee)
+<h2>Minimum Wage, Employment, and Margins of Adjustment: Evidence from Employer-Employee Matched Panel Data </h2>
+
+(with Jungmin Lee)
 Accepted, Journal of Human Resources
 
 </div>

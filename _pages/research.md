@@ -12,7 +12,7 @@ nav_order: 3
 
 <h1>Work in Progress</h1>
 
-Product Market Dynamics over the Business Cycle: Market Structure and Shock Propagation
+<h2>Product Market Dynamics over the Business Cycle: Market Structure and Shock Propagation</h2>
 
 <h1>Publications</h1>
 

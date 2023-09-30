@@ -28,7 +28,8 @@ social: true  # includes social icons at the bottom of the page
 Hello! <br> I am a fourth-year Ph.D. student in economics at [Texas A&M University](https://liberalarts.tamu.edu/economics/).  <br><br>
 
 <b>`Fields of Interest:`</b><br>
-Macroeconomics, Firm Dynamics, Industrial Organization, Labor 
+Macroeconomics, Firm Dynamics <br>
+Industrial Organization, Labor 
 
 
 <b>`Contact Information:`</b><br>

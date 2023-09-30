@@ -17,22 +17,18 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<h2>Hello! I am a fourth-year Ph.D. student in economics at [Texas A&M University](https://liberalarts.tamu.edu/economics/).  <br><br></h2>
+Hello! I am a fourth-year Ph.D. student in economics at [Texas A&M University](https://liberalarts.tamu.edu/economics/).  <br><br>
 
-<h2>
 <b>`Fields of Interest:`</b><br>
 Macroeconomics, Firm Dynamics, Industrial Organization, Labor 
-</h2>
 
-<h2>
+
 <b>`Contact Information:`</b><br>
 [geumbi.park@tamu.edu](mailto:geumbi.park@tamu.edu)
-</h2>
 
-<h2>
+
 <b>`Mailing Address:`</b><br>
 Department of Economics, TAMU<br>
 2935 Research Parkway Suite 200<br>
 College Station, TX 77843
-</h2>
 

@@ -25,10 +25,10 @@ social: true  # includes social icons at the bottom of the page
 </div>
 
 <br>
-Hello! <br> I am a Ph.D. student in economics at [Texas A&M University](https://liberalarts.tamu.edu/economics/). <br><be>
-I study macroeconomics and industrial organization. <br>
-My research focuses on the role of firm behavior and heterogeneity in the aggregate economy.   
+Hello and welcome to my website! <br>
 <br>
+I am a Ph.D. student in economics at [Texas A&M University](https://liberalarts.tamu.edu/economics/). <br><be>
+I study macroeconomics with a particular intersection with industrial organization. <br>
 <br>
 
 <b>`Research Topics:`</b><br>

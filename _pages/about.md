@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: #>
-    #<p>555 your office number</p>
+    <p>555 your office number</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -32,7 +32,7 @@ I study macroeconomics with a particular intersection with industrial organizati
 <br>
 
 <b>`Research Topics:`</b><br>
-Macroeconomics, Firm Dynamics, Industrial Organization <br>
+Macroeconomics, Fiscal Policy, Firm Dynamics, Industrial Organization <br>
 
 
 <b>`Contact Information:`</b><br>

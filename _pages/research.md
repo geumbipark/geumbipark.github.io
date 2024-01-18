@@ -13,7 +13,8 @@ nav_order: 3
 <h1>Work in Progress</h1>
 
 <h2>Product Market Dynamics over the Business Cycle: Market Structure and Shock Propagation</h2>
-
+<br>
+This study examines the impact of market structure on the amplification of macroeconomic shocks, with a focus on the strategic interactions between producers. To quantify the role of product market dynamics over the business cycle, the study presents a dynamic model of imperfect competition, where producers make entry and exit decisions based on their expectations of future market structure and their competitors' behavior. The model is estimated using large-scale scanner data in the US during the Great Recession period and the microdata helps to analyze the heterogeneity of each product and market dynamics over time. Results show that compared to an economy without strategic interaction, it generates a larger response of firms to changes in aggregate demand shocks, resulting in higher welfare costs of the business cycle. To mitigate the shock propagation, the study explores targeted policy solutions, including subsidies for entrants and incumbents, through counterfactual experiments.
 <br>
 <br>
 <h1>Publications</h1>

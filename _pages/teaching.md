@@ -5,6 +5,7 @@ title: Teaching
 nav: true
 nav_order: 4
 ---
+<div class="publications">
 
 <h1>Instructor</h1>
 <h2>Macroeconomic Theory (Undergraduate), Texas A&M University, Summer 2023 </h2>

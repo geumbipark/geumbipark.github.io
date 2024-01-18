@@ -26,9 +26,4 @@ Selected evaluation lists
   <li>The instructor's teaching methods contributed to my learning: 2.86/3.0</li>
 </ul>
 Selected comments from students 
-<ul>
-  <li>"Geumbi was an incredible TA! She was very responsive and helpful during office hours and recitation and she did her best to
-facilitate a supportive learning environment for everyone who attended."</li>
-  <li>"The friday recitation from TA was very useful."</li>
-</ul>
 <h2>Economic Development (Undergraduate), Texas A&M University, Spring 2021</h2>

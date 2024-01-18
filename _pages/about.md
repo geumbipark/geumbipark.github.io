@@ -25,11 +25,14 @@ social: true  # includes social icons at the bottom of the page
 </div>
 
 <br>
-Hello! <br> I am a fourth-year Ph.D. student in economics at [Texas A&M University](https://liberalarts.tamu.edu/economics/).  <br><br>
+Hello! <br> I am a fourth-year Ph.D. student in economics at [Texas A&M University](https://liberalarts.tamu.edu/economics/). <br><be>
+I study macroeconomics and industrial organization. <br>
+Specifically, my research focuses on firm behavior and heterogeneity at the micro-level toward aggregate economy. <br>
+<br>
 
-<b>`Fields of Interest:`</b><br>
-Macroeconomics, Firm Dynamics <br>
-Industrial Organization, Labor 
+<b>`Research Topics:`</b><br>
+Macroeconomics, Monetary Economics, Fiscal Policy <br>
+Industrial Organization, Firm Dynamics 
 
 
 <b>`Contact Information:`</b><br>

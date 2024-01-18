@@ -27,7 +27,7 @@ social: true  # includes social icons at the bottom of the page
 <br>
 Hello! <br> I am a fourth-year Ph.D. student in economics at [Texas A&M University](https://liberalarts.tamu.edu/economics/). <br><be>
 I study macroeconomics and industrial organization. <br>
-My research focuses on firm behavior and heterogeneity at the micro-level toward the aggregate economy. <br>
+My research focuses on the role of firm behavior and heterogeneity in the aggregate economy. <br>
 <br>
 
 <b>`Research Topics:`</b><br>

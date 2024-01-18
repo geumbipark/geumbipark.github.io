@@ -5,3 +5,29 @@ title: Teaching
 nav: true
 nav_order: 4
 ---
+
+<h1>Instructor</h1>
+<h2>Macroeconomic Theory (Undergraduate), Texas A&M University, Summer 2023 </h2>
+Selected evaluation lists
+<ul>
+  <li>Rate the organization of this course: 3.6/4.0</li>
+  <li>The instructor's teaching methods contributed to my learning: 2.6/3.0</li>
+</ul>
+<h2>Macroeconomics Qualifier Camp (Ph.D.), Texas A&M University, Summer 2022</h2>
+<br>
+<br>
+
+<h1>Teaching Assistant</h1>
+<h2>Macroeconomic Theory I (Ph.D.), Texas A&M University, Fall 2021</h2>
+Selected evaluation lists
+<ul>
+  <li>The instructor fostered an effective learning environment: 4.57/5.0</li>
+  <li>The instructor's teaching methods contributed to my learning: 2.86/3.0</li>
+</ul>
+Selected comments from students 
+<ul>
+  <li>"Geumbi was an incredible TA! She was very responsive and helpful during office hours and recitation and she did her best to
+facilitate a supportive learning environment for everyone who attended."</li>
+  <li>"The friday recitation from TA was very useful."</li>
+</ul>
+<h2>Economic Development (Undergraduate), Texas A&M University, Spring 2021</h2>

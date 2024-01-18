@@ -25,5 +25,4 @@ Selected evaluation lists
   <li>The instructor fostered an effective learning environment: 4.57/5.0</li>
   <li>The instructor's teaching methods contributed to my learning: 2.86/3.0</li>
 </ul>
-Selected comments from students 
 <h2>Economic Development (Undergraduate), Texas A&M University, Spring 2021</h2>

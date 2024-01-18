@@ -31,8 +31,7 @@ Specifically, my research focuses on firm behavior and heterogeneity at the micr
 <br>
 
 <b>`Research Topics:`</b><br>
-Macroeconomics, Monetary Economics, Fiscal Policy <br>
-Industrial Organization, Firm Dynamics 
+Macroeconomics, Firm Dynamics, Industrial Organization <br>
 
 
 <b>`Contact Information:`</b><br>

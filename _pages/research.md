@@ -23,7 +23,7 @@ This study examines the impact of market structure on the amplification of macro
 with <a
             href="https://sites.google.com/view/jungminlee71/home?authuser=0"
             target="_blank"
-            >Jungmin Lee</a>, Forthcoming,     <a
+            >Jungmin Lee</a>, Accepted,     <a
             href="https://jhr.uwpress.org/content/early/2023/08/02/jhr.0820-11082R3"
             target="_blank"
             >Journal of Human Resources</a>

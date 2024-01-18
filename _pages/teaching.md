@@ -18,6 +18,7 @@ Selected evaluation lists
             href="https://geumbipark.github.io/assets/pdf/survey_results_aggregate_20230820_2027.pdf"
             target="_blank"
             >Course evaluation</a>
+            <br>
 <h2>Macroeconomics Qualifier Camp (Ph.D.), Texas A&M University, Summer 2022</h2>
 <br>
 <br>
@@ -33,4 +34,5 @@ Selected evaluation lists
             href="https://geumbipark.github.io/assets/pdf/survey_results_aggregate_20220107_1743.pdf"
             target="_blank"
             >Course evaluation</a>
+            <br>
 <h2>Economic Development (Undergraduate), Texas A&M University, Spring 2021</h2>

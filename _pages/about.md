@@ -32,15 +32,16 @@ I am a Ph.D. student in economics at [Texas A&M University](https://liberalarts.
 I study macroeconomics with a particular intersection with industrial organization. <br>
 <br>
 
-<b>`Research Topics:`</b><br>
-Macroeconomics, Firm Dynamics, Fiscal Policy <br>
+<b>`Research Interests`</b><br>
+Fields: Macroeconomics, Industrial Organization<br>
+Topics: Firm Dynamics, Fiscal Policy, Labor <br>
 
 
-<b>`Contact Information:`</b><br>
+<b>`Contact Information`</b><br>
 [geumbi.park@tamu.edu](mailto:geumbi.park@tamu.edu)
 
 
-<b>`Mailing Address:`</b><br>
+<b>`Mailing Address`</b><br>
 Department of Economics, TAMU<br>
 2935 Research Parkway Suite 200<br>
 College Station, TX 77843

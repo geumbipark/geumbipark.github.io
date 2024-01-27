@@ -33,7 +33,7 @@ I study macroeconomics with a particular intersection with industrial organizati
 <br>
 
 <b>`Research Topics:`</b><br>
-Macroeconomics, Firm Dynamics, Industrial Organization <br>
+Macroeconomics, Firm Dynamics, Fiscal Policy <br>
 
 
 <b>`Contact Information:`</b><br>

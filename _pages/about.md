@@ -33,7 +33,7 @@ I study macroeconomics with a particular intersection with industrial organizati
 <br>
 
 <b>`Research Interests`</b><br>
-Fields: Macroeconomics, Industrial Organization<br>
+Fields: Macroeconomics (primary), Industrial Organization (secondary)<br>
 Topics: Firm Dynamics, Fiscal Policy, Labor <br>
 
 

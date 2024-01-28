@@ -9,6 +9,8 @@ layout: default
             >Open in new page</a>
 	 <br>
 	<br>
-	<object data="../assets/pdf/Geumbi_Park_CV.pdf#pagemode=none" width="1000" height="1000" type='application/pdf'></object>
+	<div id="preview"></div>
+	<script src="../js/pdfobject.js"></script>
+	<script>PDFObject.embed("../assets/pdf/Geumbi_Park_CV.pdf", "#preview");</script>
 
         </div>

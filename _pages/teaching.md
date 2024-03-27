@@ -7,7 +7,7 @@ nav_order: 4
 ---
 <div class="publications">
 
-<h1>Prmimary Instructor</h1>
+<h1>Primary Instructor</h1>
 <h2>Macroeconomic Theory (Undergraduate), Texas A&M University, Summer 2023 </h2>
 Selected evaluation lists <a
             href="https://geumbipark.github.io/assets/pdf/survey_results_aggregate_20230820_2027.pdf"

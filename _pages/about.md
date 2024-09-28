@@ -29,7 +29,7 @@ social: true  # includes social icons at the bottom of the page
 Hello and welcome to my website! <br>
 <br>
 I am a Ph.D. student in economics at [Texas A&M University](https://liberalarts.tamu.edu/economics/). <br><be>
-I study macroeconomics with a particular intersection with industrial organization. <br>
+I study macroeconomics, particularly at the intersection with industrial organization. <br>
 <br>
 
 <b>`Research Interests`</b><br>

@@ -5,7 +5,7 @@ permalink: /
 subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
@@ -26,12 +26,15 @@ social: true  # includes social icons at the bottom of the page
 </div>
 
 <br>
-Hello and welcome to my website! <br>
+<b>Hello and welcome to my website! </b><br>
 <br>
-I am a Ph.D. student in economics at [Texas A&M University](https://liberalarts.tamu.edu/economics/). <br><be>
-I study macroeconomics, particularly at the intersection with industrial organization. <br>
+I am a Ph.D. candidate in economics at [Texas A&M University](https://liberalarts.tamu.edu/economics/). <br><be>
 <br>
-
+My research focuses on macroeconomics and its intersection with industrial organization. I use rich microdata and economic models to study how firms and markets respond to economic shocks and policy.<br>
+<br>
+I will be on the job market in the 2025–26 academic year.
+<br><br>
+  
 <b>`Research Interests`</b><br>
 Fields: Macroeconomics (primary), Industrial Organization (secondary)<br>
 Topics: Firm Dynamics, Fiscal Policy, Labor <br>

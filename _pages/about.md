@@ -32,6 +32,7 @@ I am a Ph.D. candidate in economics at [Texas A&M University](https://liberalart
 <br>
 My research focuses on macroeconomics and its intersection with industrial organization. I use rich microdata and economic models to study how firms and markets respond to economic shocks and policy. 
 <br><br>
+In 2024, I was a Dissertation Fellow at the Federal Reserve Board.<br><br>
 I will be on the job market in the 2025–26 academic year.
 <br><br>
   

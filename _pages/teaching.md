@@ -7,11 +7,9 @@ nav_order: 4
 ---
 <div class="publications">
 
-<h1> Texas A&M University </h1>
 <p>Click on a course name to view its evaluation (where applicable)</p>
-
 <br>
-
+<h1> Texas A&M University </h1>
 <h2>Primary Instructor </h2>
 <h3><a
             href="https://geumbipark.github.io/assets/pdf/survey_results_aggregate_20230820_2027.pdf"

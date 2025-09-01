@@ -31,7 +31,7 @@ social: true  # includes social icons at the bottom of the page
 I am a Ph.D. candidate in economics at [Texas A&M University](https://liberalarts.tamu.edu/economics/). <br><be>
 <br>
 My research focuses on macroeconomics and its intersection with industrial organization. I use rich microdata and economic models to study how firms and markets respond to economic shocks and policy. 
-<br>
+<br><br>
 I will be on the job market in the 2025–26 academic year.
 <br><br>
   

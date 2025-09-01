@@ -8,7 +8,7 @@ nav_order: 4
 <div class="publications">
 
 <h1> Texas A&M University </h1>
-<p>Click on a course name to view its evaluation (when available)</p>
+<p>Click on a course name to view its evaluation (when applicable)</p>
 
 <br>
 

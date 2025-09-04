@@ -1123,3 +1123,28 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
+/* Force Abstract panel to stay plain (no red background anywhere) */
+.publications details.abstract,
+.publications details.abstract:hover,
+.publications details.abstract[open],
+.publications details.abstract > div,
+.publications details.abstract > div:hover,
+.publications details.abstract[open] > div {
+  background: transparent !important;
+  box-shadow: none !important;
+  border: 0 !important;
+  color: var(--global-text-color) !important;
+  padding: 0 !important;
+}
+
+/* Keep the Abstract button outlined only */
+.publications details.abstract > summary.btn-outline,
+.publications details.abstract > summary.btn-outline:hover,
+.publications details.abstract[open] > summary.btn-outline {
+  background: transparent !important;
+  color: var(--global-theme-color) !important;
+}
+
+/* If a global rule is coloring ANY .abstract element, neutralize it */
+.abstract { background: transparent !important; }

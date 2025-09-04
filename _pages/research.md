@@ -10,17 +10,17 @@ nav_order: 3
 <!-- _pages/research.md -->
 <div class="publications">
 
-<h1>Working Papers</h1>
+    <h1>Working Papers</h1>
 
-<h2>Product Market Dynamics over the Business Cycle </h2> [Job Market Paper] <i>&nbsp;&nbsp;Draft Coming Soon</i>
-<br><br>
+    <h2>Product Market Dynamics over the Business Cycle </h2> [Job Market Paper] <i>&nbsp;&nbsp;Draft Coming Soon</i>
+    <br><br>
 
-<details class="abstract btn-outline">
-    <summary>Abstract</summary><br>
-    <div>
-This paper examines the interaction between product entry/exit and consumer demand over the business cycle. I develop a model of product market dynamics featuring endogenous choices of producers and consumers within a unified framework. Utilizing micro-level scanner data, the study estimates the model to capture the responses of producers and consumers during the Great Recession. The findings reveal that producers react to negative demand shocks by reducing entries and increasing exits, with these responses varying according to the underlying consumer demand structure. These heterogeneous reactions intensify welfare losses and amplify the adverse effects of the business cycle, particularly for low-quality products. By exploring the diverse characteristics of products and their impacts, this research highlights the significant role of endogenous choices in shaping aggregate economic outcomes.
-    </div>
-</details>
+    <details class="abstract">
+        <summary class="btn-outline">Abstract</summary>
+        <div>
+    This paper examines the interaction between product entry/exit and consumer demand over the business cycle. I develop a model of product market dynamics featuring endogenous choices of producers and consumers within a unified framework. Utilizing micro-level scanner data, the study estimates the model to capture the responses of producers and consumers during the Great Recession. The findings reveal that producers react to negative demand shocks by reducing entries and increasing exits, with these responses varying according to the underlying consumer demand structure. These heterogeneous reactions intensify welfare losses and amplify the adverse effects of the business cycle, particularly for low-quality products. By exploring the diverse characteristics of products and their impacts, this research highlights the significant role of endogenous choices in shaping aggregate economic outcomes.
+        </div>
+    </details>
 
 <br><br>
 
@@ -36,8 +36,8 @@ with <a
             >Sarah Zubairy</a>
 <br><br> 
 
-<details class="abstract btn-outline">
-    <summary>Abstract</summary><br>
+  <details class="abstract">
+    <summary class="btn-outline">Abstract</summary>
     <div>
 This paper studies the critical but underexplored role of subcontracting in shaping the spatial and firm-level effects of federal defense spending. Leveraging newly available data on defense subcontract awards since 2011 and linking them to NETS establishment-level data, we track prime–subcontractor relationships across counties and industries and over time. We document that subcontracting results in widespread geographic relocation of federal dollars, and accounting for these flows leads to local fiscal multipliers that are nearly 20% larger than conventional estimates, based solely on prime contracts location. While subcontracting broadens the spatial reach of federal spending, its average local impact is smaller than that of prime contracts. Establishment-level evidence shows that both prime and subcontract awards increase employment and sales, but the effects for subcontractors are weaker and less persistent, likely due to the shorter and less stable nature of subcontracting relationships. The weaker multiplier effects of subcontracting also reflects the skewed distribution of subcontracts: large manufacturing firms, which are less responsive on the margin, receive a disproportionate share. In contrast,  service-sector and smaller firms exhibit stronger and more persistent employment responses but are underrepresented among subcontractors.
     </div>
@@ -78,10 +78,13 @@ with <a
 
 <br>
 
-<details class="abstract btn-outline">
-    <summary>Abstract</summary><br>
+  <details class="abstract">
+    <summary class="btn-outline">Abstract</summary>
     <div>
 We decompose the employment effect of the minimum wage into changes in employment within continued establishments and changes due to the exits of establishments. For small-sized establishments, we distinguish between other labor adjustment margins, such as hours worked, hiring, and separation at the individual level. Using employer–employee matched panel data, we show that the magnitude and channels of the employment effect differ by establishment size and industry. We find a negative effect of the minimum wage on employment growth, which is highly concentrated among small establishments. In particular, in the food and lodging and manufacturing industries, a substantial part of the effect is driven by business closing.
-    </div>
+  </div>
+  </details>
+
+</div>
 </details>
 

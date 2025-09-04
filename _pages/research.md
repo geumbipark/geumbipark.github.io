@@ -13,8 +13,6 @@ nav_order: 3
 <h1>Working Papers</h1>
 
 <h2>Product Market Dynamics over the Business Cycle  <span class="subtitle">[Job Market Paper]</span></h2>
-<br><br>
-
 <div class="meta-row">
     <span class="meta-left"> <i>Draft Coming Soon</i>
     </span>
@@ -73,10 +71,11 @@ with
 </span>
 
 <div class="meta-actions">
+  <label for="abs-mw-1" class="btn-outline">Abstract</label>
+    
   <a href="/assets/pdf/Jungmin_Lee-Geumbi_Park-Final Manuscript w Appendix.pdf" class="btn-outline" target="_blank">PDF</a>
   <a href="https://doi.org/10.3368/jhr.0820-11082R3" class="btn-outline" target="_blank">DOI</a>
 
-  <label for="abs-mw-1" class="btn-outline">Abstract</label>
 </div>
 </div>
 

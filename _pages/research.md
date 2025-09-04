@@ -57,23 +57,25 @@ nav_order: 3
 
   <h2>Minimum Wage, Employment, and Margins of Adjustment: Evidence from Employer-Employee Matched Panel Data</h2>
 
-  <div class="meta-row">
-    <div class="meta-left">
-      with
-      <a href="https://sites.google.com/view/jungminlee71/home?authuser=0" target="_blank">Jungmin Lee</a>
-    </div>
-    
-    <div class="meta-actions">
-         <details class="abstract">
-        <summary class="btn-outline">Abstract</summary>
-      <div class="abstract-content">
-      We decompose the employment effect of the minimum wage into changes in employment within continued establishments and changes due to the exits of establishments. For small-sized establishments, we distinguish between other labor adjustment margins, such as hours worked, hiring, and separation at the individual level. Using employer–employee matched panel data, we show that the magnitude and channels of the employment effect differ by establishment size and industry. We find a negative effect of the minimum wage on employment growth, which is highly concentrated among small establishments. In particular, in the food and lodging and manufacturing industries, a substantial part of the effect is driven by business closing.
-    </div>
-  </details>
-      <a href="/assets/pdf/Jungmin_Lee-Geumbi_Park-Final Manuscript w Appendix.pdf" class="btn-outline" target="_blank">PDF</a>
-      <a href="https://doi.org/10.3368/jhr.0820-11082R3" class="btn-outline" target="_blank">DOI</a>
-    </div>
+<div class="meta-row">
+  <div class="meta-left">
+    with <a href="https://sites.google.com/view/jungminlee71/home?authuser=0" target="_blank">Jungmin Lee</a>
   </div>
+
+  <div class="meta-actions">
+    <a href="/assets/pdf/Jungmin_Lee-Geumbi_Park-Final Manuscript w Appendix.pdf" class="btn-outline" target="_blank">PDF</a>
+    <a href="https://doi.org/10.3368/jhr.0820-11082R3" class="btn-outline" target="_blank">DOI</a>
+
+    <!-- Abstract stays in the same row as a button -->
+    <details class="abstract">
+      <summary class="btn-outline">Abstract</summary>
+      <div class="abstract-content">
+        We decompose the employment effect of the minimum wage into changes...
+      </div>
+    </details>
+  </div>
+</div>
+
 
   <i><b>Journal of Human Resources</b>, January 2026, Vol.61, No. 1: 211-239</i>
   <br>

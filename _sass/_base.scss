@@ -127,7 +127,8 @@ blockquote {
 .profile {
   width: 100%;
 
-  .profile .address .pronunciation {
+  .address {
+    .pronunciation {
   text-align: center;
   margin-bottom: 5px;
   margin-top: 5px;
@@ -135,13 +136,13 @@ blockquote {
   }
   
   @media (max-width: 576px) {
-  .profile .address .pronunciation {
+  .address .pronunciation {
     line-height: 1.25;
     margin: 0.4rem 0;
    font-size: 0.95rem;
   }
 }
-
+}
 }
 
 .profile.float-right {
@@ -150,18 +151,6 @@ blockquote {
 
 .profile.float-left {
   margin-right: 1rem;
-}
-
-@media (min-width: 576px) {
-  .profile {
-    width: 30%;
-
-    .address {
-      p {
-        display: block;
-      }
-    }
-  }
 }
 
 .post-description {
@@ -177,6 +166,7 @@ blockquote {
     }
   }
 }
+
 
 
 // Navbar customization

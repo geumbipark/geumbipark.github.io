@@ -13,15 +13,16 @@ nav_order: 3
 <h1>Working Papers</h1>
 
 <h2>Product Market Dynamics over the Business Cycle  <span class="subtitle">[Job Market Paper]</span></h2>
-<i>Draft Coming Soon</i>
 <br><br>
 
 <div class="meta-row">
-    <span class="meta-left"></span>
+    <span class="meta-left"> <i>Draft Coming Soon</i>
+    </span>
+    
     <div class="meta-actions">
       <label for="abs-jmp-1" class="btn-outline">Abstract</label>
     </div>
-  </div>
+</div>
 
  <input id="abs-jmp-1" type="checkbox" class="abstract-toggle">
   <div class="abstract-content">

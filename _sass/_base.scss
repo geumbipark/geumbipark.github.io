@@ -129,17 +129,19 @@ blockquote {
 
   .profile .address .pronunciation {
   text-align: center;
-  margin: 0.5rem 0;
-  line-height: 1.3;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  font-family: monospace; 
   }
 
   .profile .address .pronunciation .main {
-  font-size: 1.05rem;       /* desktop/tablet size */
+  font-size: 1.05rem;      
   font-weight: 500;
   }
 
   .profile .address .pronunciation .hint {
   font-size: 0.95rem;
+  font-family: monospace; 
   color: var(--global-text-color-light);
   }
 

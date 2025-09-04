@@ -580,6 +580,8 @@ footer.sticky-bottom {
 }
 
 .abstract-toggle { display: none; }
+.abstract-content{ display:none; margin-top:.75rem; line-height:1.5; }
+.abstract-toggle:checked ~ .abstract-content{ display:block; }
 
 /* Keep Abstract button always looking the same */
 details.abstract summary.btn-outline {
@@ -623,9 +625,7 @@ details.abstract > div {
   display:flex;
   align-items:center;
   gap: 0.75rem;      /* small space between items */
-  margin: 0.5rem 0 1rem;
   flex-wrap: wrap;   /* allows wrapping on mobile */
-  justify-content: flex-start;  /* keep everything together on the left */
 }
 
 .meta-left{
@@ -653,9 +653,6 @@ details.abstract > div {
   color: var(--global-text-color);
 }
 
-.abstract-toggle:checked ~ .abstract-content {
-  display: block;
-}
 
 /* Optional: on very small screens, stack nicely */
 @media (max-width: 520px){

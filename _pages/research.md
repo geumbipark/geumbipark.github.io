@@ -55,19 +55,21 @@ with <a
 <h1>Publication</h1>
 
 <h2>Minimum Wage, Employment, and Margins of Adjustment: Evidence from Employer-Employee Matched Panel Data</h2>
-with <a
-            href="https://sites.google.com/view/jungminlee71/home?authuser=0"
-            target="_blank"
-            >Jungmin Lee</a> &nbsp;
-
-<div class="btn-row">
-  <a href="https://geumbipark.github.io/assets/pdf/Jungmin_Lee-Geumbi_Park-Final Manuscript w Appendix.pdf"
-     class="btn-outline"
-     target="_blank">PDF</a>
-
-  <a href="https://jhr.uwpress.org/content/early/2023/08/02/jhr.0820-11082R3"
-     class="btn-outline"
-     target="_blank">doi</a>
+<!-- Meta row: coauthor (left) + buttons (right) -->
+<div class="meta-row">
+  <div class="meta-left">
+    with
+    <a href="https://sites.google.com/view/jungminlee71/home?authuser=0" target="_blank">
+      Jungmin Lee
+    </a>
+  </div>
+&nbsp;&nbsp;
+  <div class="meta-actions">
+    <a href="/assets/pdf/Jungmin_Lee-Geumbi_Park-Final Manuscript w Appendix.pdf"
+       class="btn-outline" target="_blank">PDF</a>
+    <a href="https://jhr.uwpress.org/content/early/2023/08/02/jhr.0820-11082R3"
+       class="btn-outline" target="_blank">DOI</a>
+  </div>
 </div>
 
 <br><br>

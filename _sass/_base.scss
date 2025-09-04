@@ -639,7 +639,9 @@ footer.sticky-bottom {
   background: transparent;
 }
 .abstract-toggle:checked + .abstract-content { display: block; }
-
+.abstract-toggle {
+  display: none;
+}
 
 
 

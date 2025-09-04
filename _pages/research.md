@@ -17,7 +17,10 @@ nav_order: 3
 This paper examines the interaction between product entry/exit and consumer demand over the business cycle. I develop a model of product market dynamics featuring endogenous choices of producers and consumers within a unified framework. Utilizing micro-level scanner data, the study estimates the model to capture the responses of producers and consumers during the Great Recession. The findings reveal that producers react to negative demand shocks by reducing entries and increasing exits, with these responses varying according to the underlying consumer demand structure. These heterogeneous reactions intensify welfare losses and amplify the adverse effects of the business cycle, particularly for low-quality products. By exploring the diverse characteristics of products and their impacts, this research highlights the significant role of endogenous choices in shaping aggregate economic outcomes.<br>
 <br>
 
-<h2>Subcontracting in Federal Spending: Micro and Macro Implications </h2>
+<h2> <a
+           href="https://geumbipark.github.io/assets/pdf/ assets/pdf/PZZ_subcontracting_27Aug2025.pdf"
+            target="_blank"
+            >Subcontracting in Federal Spending: Macro and Micro Implications</a></h2>
 with <a
            href="https://sites.google.com/view/jungminlee71/home?authuser=0"
             target="_blank"
@@ -42,7 +45,7 @@ with <a
 with <a
             href="https://sites.google.com/view/jungminlee71/home?authuser=0"
             target="_blank"
-            >Jungmin Lee</a>. <a https://geumbipark.github.io/assets/pdf/Jungmin_Lee-Geumbi_Park-Final Manuscript w Appendix.pdf>[preprint version]</a>
+            >Jungmin Lee</a>. <a href="https://geumbipark.github.io/assets/pdf/Jungmin_Lee-Geumbi_Park-Final Manuscript w Appendix.pdf">[preprint version]</a>
 <a https://jhr.uwpress.org/content/early/2023/08/02/jhr.0820-11082R3>[doi]</a>
 <br><br>
 <i><b>Journal of Human Resources</b>, January 2026, Vol.61, No. 1: 211-239 </i>

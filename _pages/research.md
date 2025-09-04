@@ -72,7 +72,7 @@ with <a
   </div>
 </div>
 
-<br><br>
+<br>
 
 <i><b>Journal of Human Resources</b>, January 2026, Vol.61, No. 1: 211-239 </i>
 

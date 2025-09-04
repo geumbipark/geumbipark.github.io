@@ -556,33 +556,29 @@ footer.sticky-bottom {
 }
 
 
-// Abstract toggle (for publications)
-details.abstract {
-  margin: .4rem 0 1rem;
-  border: 1px solid var(--global-divider-color);
-  border-radius: 8px;
-  background: var(--global-card-bg-color);
-  padding: .5rem .75rem;
 
-  > summary {
-    list-style: none;         // hides default marker (Chrome/Safari)
-    cursor: pointer;
-    font-weight: 600;
-    position: relative;
+// Abstract button toggle 
+details.abstract summary {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--global-theme-color);
+  border: 1px solid var(--global-theme-color);
+  border-radius: 4px;
+  cursor: pointer;
+  list-style: none;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
 
-    &::-webkit-details-marker { display: none; }
-  }
+details.abstract summary::-webkit-details-marker {
+  display: none; /* hide default arrow */
+}
 
-  // caret
-  > summary::after {
-    content: "▼";
-    float: right;
-    transition: transform .2s ease;
-  }
-  &[open] > summary::after { transform: rotate(180deg); }
-
-  // content
-  > div { margin-top: .5rem; line-height: 1.5; }
+details.abstract[open] summary {
+  background: var(--global-theme-color);
+  color: #fff;
 }
 
 

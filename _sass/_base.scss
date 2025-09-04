@@ -151,7 +151,7 @@ blockquote {
 
 @media (max-width: 576px) {
   .profile {
-    float: none;
+    float: none !important;
     display: block;          
     margin: 0 auto 1rem;     
     text-align: center;      

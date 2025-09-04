@@ -64,11 +64,10 @@ with <a
       Jungmin Lee
     </a>
   </div>
-&nbsp;&nbsp;
   <div class="meta-actions">
     <a href="/assets/pdf/Jungmin_Lee-Geumbi_Park-Final Manuscript w Appendix.pdf"
        class="btn-outline" target="_blank">PDF</a>
-    <a href="https://jhr.uwpress.org/content/early/2023/08/02/jhr.0820-11082R3"
+    <a href="https://doi.org/10.3368/jhr.0820-11082R3"
        class="btn-outline" target="_blank">DOI</a>
   </div>
 </div>

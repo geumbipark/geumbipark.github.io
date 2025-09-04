@@ -572,30 +572,34 @@ footer.sticky-bottom {
   cursor: pointer;
 }
 
-/* Hover state (fill with theme color) */
+/* Hover: fill with theme color */
 .btn-outline:hover {
   background: var(--global-theme-color);
   color: #fff;
   text-decoration: none;
 }
 
-/* Abstract button should stay outlined even when open */
+/* Space between buttons */
+.btn-outline + .btn-outline {
+  margin-left: 0.5rem;
+}
+
+/* Abstract button behaves like other buttons */
 details.abstract[open] > summary.btn-outline {
-  background: transparent;
-  color: var(--global-theme-color);
+  background: var(--global-theme-color); /* keep filled look */
+  color: #fff;
 }
 
 /* Abstract wrapper */
 details.abstract {
   display: inline-block;
-  margin-right: 0.5rem; /* spacing like buttons */
+  margin-right: 0.5rem;
 }
 
 /* Abstract button */
 details.abstract summary {
   list-style: none;
 }
-
 details.abstract summary::-webkit-details-marker {
   display: none; /* hide default arrow */
 }
@@ -604,9 +608,9 @@ details.abstract summary::-webkit-details-marker {
 details.abstract > div {
   margin-top: 0.75rem;
   line-height: 1.5;
-  background: transparent;   /* no dark background */
+  background: transparent;   /* no red/dark background */
   color: var(--global-text-color);
-  padding: 0;                /* no extra box padding */
+  padding: 0;
 }
 
 
@@ -632,24 +636,6 @@ details.abstract > div {
   gap:.5rem;
 }
 
-/* outline button style (reuse across site) */
-.btn-outline{
-  display:inline-block;
-  padding:.25rem .75rem;
-  font-size:.9rem;
-  font-weight:500;
-  color:var(--global-theme-color);
-  border:1px solid var(--global-theme-color);
-  border-radius:4px;
-  text-decoration:none;
-  transition:all .2s ease;
-  cursor:pointer;
-}
-.btn-outline:hover{
-  background:var(--global-theme-color);
-  color:#fff;
-  text-decoration:none;
-}
 
 /* Optional: on very small screens, stack nicely */
 @media (max-width: 520px){
@@ -1124,27 +1110,3 @@ nav[data-toggle="toc"] {
   }
 }
 
-/* Force Abstract panel to stay plain (no red background anywhere) */
-.publications details.abstract,
-.publications details.abstract:hover,
-.publications details.abstract[open],
-.publications details.abstract > div,
-.publications details.abstract > div:hover,
-.publications details.abstract[open] > div {
-  background: transparent !important;
-  box-shadow: none !important;
-  border: 0 !important;
-  color: var(--global-text-color) !important;
-  padding: 0 !important;
-}
-
-/* Keep the Abstract button outlined only */
-.publications details.abstract > summary.btn-outline,
-.publications details.abstract > summary.btn-outline:hover,
-.publications details.abstract[open] > summary.btn-outline {
-  background: transparent !important;
-  color: var(--global-theme-color) !important;
-}
-
-/* If a global rule is coloring ANY .abstract element, neutralize it */
-.abstract { background: transparent !important; }

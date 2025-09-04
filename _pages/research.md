@@ -12,8 +12,9 @@ nav_order: 3
 
   <h1>Working Papers</h1>
 
-  <h2>Product Market Dynamics over the Business Cycle</h2>
-  [Job Market Paper] <i>&nbsp;&nbsp;Draft Coming Soon</i>
+  <h2>Product Market Dynamics over the Business Cycle <span class="subtitle">[Job Market Paper]</span>
+  </h2>
+  <i>&nbsp;&nbsp;Draft Coming Soon</i>
   <br><br>
 
   <details class="abstract">

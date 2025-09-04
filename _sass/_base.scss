@@ -600,7 +600,7 @@ details.abstract[open] > summary.btn-outline {
 /* Abstract wrapper */
 details.abstract {
   display: inline-block;
-  margin-right: 0.5rem;
+  margin-right: 0;
 }
 
 /* Abstract button */
@@ -615,10 +615,10 @@ details.abstract summary::-webkit-details-marker {
 details.abstract > div {
   margin-top: 0.75rem;
   line-height: 1.5;
-  background: transparent;   /* no red/dark background */
+  background: transparent;
   color: var(--global-text-color);
+  flex-basis: 100%;      /* forces it to drop below buttons */
 }
-
 
 
 /* One-row layout for coauthor + buttons */

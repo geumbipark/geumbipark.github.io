@@ -46,7 +46,10 @@ with <a
             href="https://sites.google.com/view/jungminlee71/home?authuser=0"
             target="_blank"
             >Jungmin Lee</a>. <a href="https://geumbipark.github.io/assets/pdf/Jungmin_Lee-Geumbi_Park-Final Manuscript w Appendix.pdf">[preprint version]</a>
-<a https://jhr.uwpress.org/content/early/2023/08/02/jhr.0820-11082R3>[doi]</a>
+<a
+            href="https://jhr.uwpress.org/content/early/2023/08/02/jhr.0820-11082R3"
+            target="_blank"
+            >[doi]</a>
 <br><br>
 <i><b>Journal of Human Resources</b>, January 2026, Vol.61, No. 1: 211-239 </i>
 <br><br>

@@ -9,9 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p> <center> Pronounced as "Geum-B" </center></p>  
-    <p> <center>(like "Gumby") </center></p>
-    <br>
+     <p class="pronunciation">
+      <span class="main">Pronounced as "Geum-B"</span><br>
+      <span class="hint">(like "Gumby")</span>
+    </p>
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"

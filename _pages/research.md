@@ -44,6 +44,8 @@ and
     </span>
     <div class="meta-actions">
       <label for="abs-sub-1" class="btn-outline">Abstract</label>
+
+      <a href="/assets/pdf/PZZ_subcontracting_27Aug2025.pdf" class="btn-outline" target="_blank">PDF</a>
     </div>
   </div>
   
@@ -73,7 +75,8 @@ with
 <div class="meta-actions">
   <label for="abs-mw-1" class="btn-outline">Abstract</label>
     
-  <a href="/assets/pdf/Jungmin_Lee-Geumbi_Park-Final Manuscript w Appendix.pdf" class="btn-outline" target="_blank">PDF</a>
+  <a href="/assets/pdf/Jungmin_Lee-Geumbi_Park-Final Manuscript.pdf" class="btn-outline" target="_blank">PDF</a>
+  <a href="/assets/pdf/Jungmin_Lee-Geumbi_Park-Online Appendix.pdf" class="btn-outline" target="_blank">Appendix</a>
   <a href="https://doi.org/10.3368/jhr.0820-11082R3" class="btn-outline" target="_blank">DOI</a>
 
 </div>

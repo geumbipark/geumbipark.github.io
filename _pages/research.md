@@ -10,74 +10,82 @@ nav_order: 3
 <!-- _pages/research.md -->
 <div class="publications">
 
-  <h1>Working Papers</h1>
+<h1>Working Papers</h1>
 
-  <h2>Product Market Dynamics over the Business Cycle  <span class="subtitle">[Job Market Paper]</span>
-  </h2>
-  <i>Draft Coming Soon</i>
-  <br><br>
-
-  <details class="abstract">
-    <summary class="btn-outline">Abstract</summary>
-    <div>
-      This paper examines the interaction between product entry/exit and consumer demand over the business cycle. I develop a model of product market dynamics featuring endogenous choices of producers and consumers within a unified framework. Utilizing micro-level scanner data, the study estimates the model to capture the responses of producers and consumers during the Great Recession. The findings reveal that producers react to negative demand shocks by reducing entries and increasing exits, with these responses varying according to the underlying consumer demand structure. These heterogeneous reactions intensify welfare losses and amplify the adverse effects of the business cycle, particularly for low-quality products. By exploring the diverse characteristics of products and their impacts, this research highlights the significant role of endogenous choices in shaping aggregate economic outcomes.
-    </div>
-  </details>
-
-  <br><br><br>
-
-  <h2>
-    <a href="https://geumbipark.github.io/assets/pdf/PZZ_subcontracting_27Aug2025.pdf" target="_blank">
-      Subcontracting in Federal Spending: Macro and Micro Implications
-    </a>
-  </h2>
-  with
-  <a href="https://sites.google.com/a/umich.edu/xqzhou/home?authuser=0" target="_blank">Xiaoqing Zhou</a>
-  and
-  <a href="https://sites.google.com/site/sarahzubairy/home?authuser=0" target="_blank">Sarah Zubairy</a>
-  <br><br>
-
-  <details class="abstract">
-    <summary class="btn-outline">Abstract</summary>
-    <div>
-      This paper studies the critical but underexplored role of subcontracting in shaping the spatial and firm-level effects of federal defense spending. Leveraging newly available data on defense subcontract awards since 2011 and linking them to NETS establishment-level data, we track prime–subcontractor relationships across counties and industries and over time. We document that subcontracting results in widespread geographic relocation of federal dollars, and accounting for these flows leads to local fiscal multipliers that are nearly 20% larger than conventional estimates, based solely on prime contracts location. While subcontracting broadens the spatial reach of federal spending, its average local impact is smaller than that of prime contracts. Establishment-level evidence shows that both prime and subcontract awards increase employment and sales, but the effects for subcontractors are weaker and less persistent, likely due to the shorter and less stable nature of subcontracting relationships. The weaker multiplier effects of subcontracting also reflects the skewed distribution of subcontracts: large manufacturing firms, which are less responsive on the margin, receive a disproportionate share. In contrast, service-sector and smaller firms exhibit stronger and more persistent employment responses but are underrepresented among subcontractors.
-    </div>
-  </details>
-
-  <br> <br>
-
-  <h1>Work in Progress</h1>
-
-  <h2>Products or Productivities</h2>
-  with
-  <a href="https://sites.google.com/view/rohan-shah/home?authuser=0" target="_blank">Rohan Shah</a>
-  <br><br>
-
-  <h1>Publication</h1>
-
-  <h2>Minimum Wage, Employment, and Margins of Adjustment: Evidence from Employer-Employee Matched Panel Data</h2>
+<h2>Product Market Dynamics over the Business Cycle  <span class="subtitle">[Job Market Paper]</span></h2>
+<i>Draft Coming Soon</i>
+<br><br>
 
 <div class="meta-row">
-  <span class="meta-left">
-    with <a href="https://sites.google.com/view/jungminlee71/home?authuser=0" target="_blank">Jungmin Lee</a>
-  </span>
-
-  <div class="meta-actions">
-    <a href="/assets/pdf/Jungmin_Lee-Geumbi_Park-Final Manuscript w Appendix.pdf" class="btn-outline" target="_blank">PDF</a>
-    <a href="https://doi.org/10.3368/jhr.0820-11082R3" class="btn-outline" target="_blank">DOI</a>
-
-    <label for="abs-mw-1" class="btn-outline">Abstract</label>
+    <span class="meta-left"></span>
+    <div class="meta-actions">
+      <label for="abs-jmp-1" class="btn-outline">Abstract</label>
+    </div>
   </div>
+
+ <input id="abs-jmp-1" type="checkbox" class="abstract-toggle">
+  <div class="abstract-content">
+    This paper examines the interaction between product entry/exit and consumer demand over the business cycle. I develop a model of product market dynamics featuring endogenous choices of producers and consumers within a unified framework. Utilizing micro-level scanner data, the study estimates the model to capture the responses of producers and consumers during the Great Recession. The findings reveal that producers react to negative demand shocks by reducing entries and increasing exits, with these responses varying according to the underlying consumer demand structure. These heterogeneous reactions intensify welfare losses and amplify the adverse effects of the business cycle, particularly for low-quality products. By exploring the diverse characteristics of products and their impacts, this research highlights the significant role of endogenous choices in shaping aggregate economic outcomes.
+  </div>
+
+
+<br><br><br>
+
+<h2>
+  <a href="https://geumbipark.github.io/assets/pdf/PZZ_subcontracting_27Aug2025.pdf" target="_blank">
+    Subcontracting in Federal Spending: Macro and Micro Implications
+  </a>
+</h2>
+ <div class="meta-row">
+    <span class="meta-left"> 
+      with
+<a href="https://sites.google.com/a/umich.edu/xqzhou/home?authuser=0" target="_blank">Xiaoqing Zhou</a>
+and
+<a href="https://sites.google.com/site/sarahzubairy/home?authuser=0" target="_blank">Sarah Zubairy</a>
+    </span>
+    <div class="meta-actions">
+      <label for="abs-sub-1" class="btn-outline">Abstract</label>
+    </div>
+  </div>
+  
+<input id="abs-sub-1" type="checkbox" class="abstract-toggle">
+  <div class="abstract-content">
+    This paper studies the critical but underexplored role of subcontracting in shaping the spatial and firm-level effects of federal defense spending. Leveraging newly available data on defense subcontract awards since 2011 and linking them to NETS establishment-level data, we track prime–subcontractor relationships across counties and industries and over time. We document that subcontracting results in widespread geographic relocation of federal dollars, and accounting for these flows leads to local fiscal multipliers that are nearly 20% larger than conventional estimates, based solely on prime contracts location. While subcontracting broadens the spatial reach of federal spending, its average local impact is smaller than that of prime contracts. Establishment-level evidence shows that both prime and subcontract awards increase employment and sales, but the effects for subcontractors are weaker and less persistent, likely due to the shorter and less stable nature of subcontracting relationships. The weaker multiplier effects of subcontracting also reflects the skewed distribution of subcontracts: large manufacturing firms, which are less responsive on the margin, receive a disproportionate share. In contrast, service-sector and smaller firms exhibit stronger and more persistent employment responses but are underrepresented among subcontractors.
+  </div>
+
+<br> <br>
+
+<h1>Work in Progress</h1>
+
+<h2>Products or Productivities</h2>
+with
+<a href="https://sites.google.com/view/rohan-shah/home?authuser=0" target="_blank">Rohan Shah</a>
+<br><br>
+
+<h1>Publication</h1>
+
+<h2>Minimum Wage, Employment, and Margins of Adjustment: Evidence from Employer-Employee Matched Panel Data</h2>
+
+<div class="meta-row">
+<span class="meta-left">
+  with <a href="https://sites.google.com/view/jungminlee71/home?authuser=0" target="_blank">Jungmin Lee</a>
+</span>
+
+<div class="meta-actions">
+  <a href="/assets/pdf/Jungmin_Lee-Geumbi_Park-Final Manuscript w Appendix.pdf" class="btn-outline" target="_blank">PDF</a>
+  <a href="https://doi.org/10.3368/jhr.0820-11082R3" class="btn-outline" target="_blank">DOI</a>
+
+  <label for="abs-mw-1" class="btn-outline">Abstract</label>
+</div>
 </div>
 
- <!-- Hidden toggle + content BELOW the row -->
 <input id="abs-mw-1" type="checkbox" class="abstract-toggle">
 <div class="abstract-content">
 We decompose the employment effect of the minimum wage into changes in employment within continued establishments and changes due to the exits of establishments. For small-sized establishments, we distinguish between other labor adjustment margins, such as hours worked, hiring, and separation at the individual level. Using employer–employee matched panel data, we show that the magnitude and channels of the employment effect differ by establishment size and industry. We find a negative effect of the minimum wage on employment growth, which is highly concentrated among small establishments. In particular, in the food and lodging and manufacturing industries, a substantial part of the effect is driven by business closing.
 </div>  
 <br>
-  <i><b>Journal of Human Resources</b>, January 2026, Vol.61, No. 1: 211-239</i>
-  <br>
+<i><b>Journal of Human Resources</b>, January 2026, Vol.61, No. 1: 211-239</i>
+<br>
 
 
 

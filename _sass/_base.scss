@@ -579,6 +579,8 @@ footer.sticky-bottom {
   text-decoration: none;
 }
 
+.abstract-toggle { display: none; }
+
 /* Keep Abstract button always looking the same */
 details.abstract summary.btn-outline {
   background: transparent !important;
@@ -649,6 +651,10 @@ details.abstract > div {
   line-height: 1.5;
   background: transparent;
   color: var(--global-text-color);
+}
+
+.abstract-toggle:checked ~ .abstract-content {
+  display: block;
 }
 
 /* Optional: on very small screens, stack nicely */

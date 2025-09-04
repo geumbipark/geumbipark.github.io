@@ -59,7 +59,7 @@ and
 <h2>Products or Productivities</h2>
 with
 <a href="https://sites.google.com/view/rohan-shah/home?authuser=0" target="_blank">Rohan Shah</a>
-<br><br>
+<br>
 
 <h1 class="section-title">Publication</h1>
 

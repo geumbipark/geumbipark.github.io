@@ -10,7 +10,7 @@ nav_order: 3
 <!-- _pages/research.md -->
 <div class="publications">
 
-<h1>Working Papers</h1>
+<h1 class="section-title">Working Papers</h1>
 
 <h2>Product Market Dynamics over the Business Cycle  <span class="subtitle">[Job Market Paper]</span></h2>
 <div class="meta-row">
@@ -54,14 +54,14 @@ and
 
 <br> <br>
 
-<h1>Work in Progress</h1>
+<h1 class="section-title">Work in Progress</h1>
 
 <h2>Products or Productivities</h2>
 with
 <a href="https://sites.google.com/view/rohan-shah/home?authuser=0" target="_blank">Rohan Shah</a>
 <br><br>
 
-<h1>Publication</h1>
+<h1 class="section-title">Publication</h1>
 
 <h2>Minimum Wage, Employment, and Margins of Adjustment: Evidence from Employer-Employee Matched Panel Data</h2>
 

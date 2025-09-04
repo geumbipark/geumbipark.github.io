@@ -557,8 +557,8 @@ footer.sticky-bottom {
 
 
 
-// Abstract button toggle 
-details.abstract summary {
+/* Shared button style (PDF, Journal, Abstract) */
+.btn-outline {
   display: inline-block;
   padding: 0.25rem 0.75rem;
   font-size: 0.9rem;
@@ -566,26 +566,38 @@ details.abstract summary {
   color: var(--global-theme-color);
   border: 1px solid var(--global-theme-color);
   border-radius: 4px;
-  cursor: pointer;
-  list-style: none;
   text-decoration: none;
   transition: all 0.2s ease;
+  margin-right: 0.5rem; /* space between buttons */
+  cursor: pointer;
+}
+
+/* Hover + open state */
+.btn-outline:hover,
+details.abstract[open] > summary.btn-outline {
+  background: var(--global-theme-color);
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Abstract details wrapper */
+details.abstract {
+  display: inline-block;
+}
+
+details.abstract summary {
+  list-style: none;
 }
 
 details.abstract summary::-webkit-details-marker {
-  display: none; /* hide default arrow */
+  display: none; /* hide arrow */
 }
 
-details.abstract[open] summary {
-  background: var(--global-theme-color);
-  color: #fff;
+details.abstract > div {
+  margin-top: 0.75rem;
+  line-height: 1.5;
 }
 
-.btn-outline:hover {
-  background: var(--global-theme-color);
-  color: #fff;
-  text-decoration: none;
-}
 
 
 

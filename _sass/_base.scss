@@ -611,6 +611,59 @@ details.abstract > div {
 
 
 
+/* One-row layout for coauthor + buttons */
+.meta-row{
+  display:flex;
+  align-items:center;
+  justify-content:space-between; /* coauthor left, buttons right */
+  gap:.75rem;
+  margin:.5rem 0 1rem;
+  flex-wrap:wrap; /* allow wrap on narrow screens */
+}
+
+.meta-left{
+  font-size:1rem;
+}
+
+/* group buttons inline with small gaps */
+.meta-actions{
+  display:flex;
+  align-items:center;
+  gap:.5rem;
+}
+
+/* outline button style (reuse across site) */
+.btn-outline{
+  display:inline-block;
+  padding:.25rem .75rem;
+  font-size:.9rem;
+  font-weight:500;
+  color:var(--global-theme-color);
+  border:1px solid var(--global-theme-color);
+  border-radius:4px;
+  text-decoration:none;
+  transition:all .2s ease;
+  cursor:pointer;
+}
+.btn-outline:hover{
+  background:var(--global-theme-color);
+  color:#fff;
+  text-decoration:none;
+}
+
+/* Optional: on very small screens, stack nicely */
+@media (max-width: 520px){
+  .meta-row{
+    align-items:flex-start;
+  }
+  .meta-actions{
+    width:100%;
+    justify-content:flex-start; /* buttons drop under coauthor, left-aligned */
+  }
+}
+
+
+
 // Publications
 
 .publications {

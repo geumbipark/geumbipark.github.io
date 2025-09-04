@@ -14,7 +14,7 @@ nav_order: 3
 
   <h2>Product Market Dynamics over the Business Cycle <span class="subtitle">[Job Market Paper]</span>
   </h2>
-  <i>&nbsp;&nbsp;Draft Coming Soon</i>
+  <i>Draft Coming Soon</i>
   <br><br>
 
   <details class="abstract">

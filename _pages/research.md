@@ -15,7 +15,7 @@ nav_order: 3
 <h2>Product Market Dynamics over the Business Cycle </h2> [Job Market Paper] <i>&nbsp;&nbsp;Draft Coming Soon</i>
 <br><br>
 
-<details class="abstract">
+<details class="abstract btn-outline">
     <summary>Abstract</summary><br>
     <div>
 This paper examines the interaction between product entry/exit and consumer demand over the business cycle. I develop a model of product market dynamics featuring endogenous choices of producers and consumers within a unified framework. Utilizing micro-level scanner data, the study estimates the model to capture the responses of producers and consumers during the Great Recession. The findings reveal that producers react to negative demand shocks by reducing entries and increasing exits, with these responses varying according to the underlying consumer demand structure. These heterogeneous reactions intensify welfare losses and amplify the adverse effects of the business cycle, particularly for low-quality products. By exploring the diverse characteristics of products and their impacts, this research highlights the significant role of endogenous choices in shaping aggregate economic outcomes.
@@ -35,7 +35,7 @@ with <a
             >Sarah Zubairy</a>
 <br><br> 
 
-<details class="abstract">
+<details class="abstract btn-outline">
     <summary>Abstract</summary><br>
     <div>
 This paper studies the critical but underexplored role of subcontracting in shaping the spatial and firm-level effects of federal defense spending. Leveraging newly available data on defense subcontract awards since 2011 and linking them to NETS establishment-level data, we track prime–subcontractor relationships across counties and industries and over time. We document that subcontracting results in widespread geographic relocation of federal dollars, and accounting for these flows leads to local fiscal multipliers that are nearly 20% larger than conventional estimates, based solely on prime contracts location. While subcontracting broadens the spatial reach of federal spending, its average local impact is smaller than that of prime contracts. Establishment-level evidence shows that both prime and subcontract awards increase employment and sales, but the effects for subcontractors are weaker and less persistent, likely due to the shorter and less stable nature of subcontracting relationships. The weaker multiplier effects of subcontracting also reflects the skewed distribution of subcontracts: large manufacturing firms, which are less responsive on the margin, receive a disproportionate share. In contrast,  service-sector and smaller firms exhibit stronger and more persistent employment responses but are underrepresented among subcontractors.

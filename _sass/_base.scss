@@ -125,10 +125,20 @@ blockquote {
 // Profile
 
 .profile {
-  width: 100%;
+  width: auto;                /* or unset */
+  display: inline-block;    /* lets the block hug the image width */
+  max-width: 320px;           /* pick your image max size */
+  float: right;               /* or use your .float-right class */
+  margin-left: 1.25rem;       /* gap from text */
+  text-align: center;         /* centers the caption under the photo */
 
-  .address {
-    .pronunciation {
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  
+  .address .pronunciation {
   text-align: center;
   margin-bottom: 5px;
   margin-top: 5px;
@@ -140,15 +150,8 @@ blockquote {
     line-height: 1.25;
     margin: 0.4rem 0 1rem 0;
    font-size: 0.95rem;
+   }
   }
-}
-}
-}
-
-.profile img {
-  width: 100%;
-  max-width: 300px;
-  height: auto;
 }
 
 .profile.float-right {

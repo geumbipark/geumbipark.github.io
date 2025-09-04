@@ -654,6 +654,12 @@ details.abstract > div {
   }
 }
 
+.subtitle {
+  font-size: 0.85rem;      /* smaller text */
+  font-weight: normal;     /* not bold */
+  margin-left: 0.5rem;     /* small space from the title */
+  color: var(--global-text-color); /* keep consistent color */
+}
 
 
 // Publications

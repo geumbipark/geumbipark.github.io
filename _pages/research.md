@@ -79,6 +79,6 @@ We decompose the employment effect of the minimum wage into changes in employmen
 
   <a href="https://jhr.uwpress.org/content/early/2023/08/02/jhr.0820-11082R3"
      class="btn-outline"
-     target="_blank">Journal</a>
+     target="_blank">doi</a>
      
 </div>

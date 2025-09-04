@@ -584,11 +584,18 @@ footer.sticky-bottom {
   margin-left: 0.5rem;
 }
 
+/* Keep Abstract button always looking the same */
+details.abstract summary.btn-outline {
+  background: transparent !important;
+  color: var(--global-theme-color) !important;
+}
+
 /* Abstract button behaves like other buttons */
 details.abstract[open] > summary.btn-outline {
   background: var(--global-theme-color); /* keep filled look */
   color: #fff;
 }
+
 
 /* Abstract wrapper */
 details.abstract {
@@ -610,7 +617,6 @@ details.abstract > div {
   line-height: 1.5;
   background: transparent;   /* no red/dark background */
   color: var(--global-text-color);
-  padding: 0;
 }
 
 

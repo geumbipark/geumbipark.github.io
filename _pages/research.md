@@ -66,6 +66,14 @@ with <a
 <br>
 
 <div class="btn-row">
+    
+  <details class="abstract btn-outline">
+    <summary>Abstract</summary>
+    <div>
+We decompose the employment effect of the minimum wage into changes in employment within continued establishments and changes due to the exits of establishments. For small-sized establishments, we distinguish between other labor adjustment margins, such as hours worked, hiring, and separation at the individual level. Using employer–employee matched panel data, we show that the magnitude and channels of the employment effect differ by establishment size and industry. We find a negative effect of the minimum wage on employment growth, which is highly concentrated among small establishments. In particular, in the food and lodging and manufacturing industries, a substantial part of the effect is driven by business closing.
+    </div>
+  </details>
+    
   <a href="https://geumbipark.github.io/assets/pdf/Jungmin_Lee-Geumbi_Park-Final Manuscript w Appendix.pdf"
      class="btn-outline"
      target="_blank">PDF</a>
@@ -73,11 +81,5 @@ with <a
   <a href="https://jhr.uwpress.org/content/early/2023/08/02/jhr.0820-11082R3"
      class="btn-outline"
      target="_blank">Journal</a>
-
-  <details class="abstract btn-outline">
-    <summary>Abstract</summary>
-    <div>
-We decompose the employment effect of the minimum wage into changes in employment within continued establishments and changes due to the exits of establishments. For small-sized establishments, we distinguish between other labor adjustment margins, such as hours worked, hiring, and separation at the individual level. Using employer–employee matched panel data, we show that the magnitude and channels of the employment effect differ by establishment size and industry. We find a negative effect of the minimum wage on employment growth, which is highly concentrated among small establishments. In particular, in the food and lodging and manufacturing industries, a substantial part of the effect is driven by business closing.
-    </div>
-  </details>
+     
 </div>

@@ -557,7 +557,9 @@ footer.sticky-bottom {
 
 
 
-/* Shared button style (PDF, Journal, Abstract) */
+
+// buttons for pdf, links, abstract 
+
 .btn-outline {
   display: inline-block;
   padding: 0.25rem 0.75rem;
@@ -572,55 +574,13 @@ footer.sticky-bottom {
   margin: 0;
 }
 
-/* Hover: fill with theme color */
 .btn-outline:hover {
   background: var(--global-theme-color);
   color: #fff;
   text-decoration: none;
 }
 
-.abstract-toggle { display: none; }
-.abstract-content{ display:none; margin-top:.75rem; line-height:1.5; }
-.abstract-toggle:checked ~ .abstract-content{ display:block; }
 
-/* Keep Abstract button always looking the same */
-details.abstract summary.btn-outline {
-  background: transparent !important;
-  color: var(--global-theme-color) !important;
-}
-
-/* Abstract button behaves like other buttons */
-details.abstract[open] > summary.btn-outline {
-  background: var(--global-theme-color); /* keep filled look */
-  color: #fff;
-}
-
-
-/* Abstract wrapper */
-details.abstract {
-  display: inline-block;
-  margin-right: 0;
-}
-
-/* Abstract button */
-details.abstract summary {
-  list-style: none;
-}
-details.abstract summary::-webkit-details-marker {
-  display: none; /* hide default arrow */
-}
-
-/* Abstract content */
-details.abstract > div {
-  margin-top: 0.75rem;
-  line-height: 1.5;
-  background: transparent;
-  color: var(--global-text-color);
-  flex-basis: 100%;      /* forces it to drop below buttons */
-}
-
-
-/* One-row layout for coauthor + buttons */
 .meta-row{
   display:flex;
   align-items:center;
@@ -632,7 +592,6 @@ details.abstract > div {
   font-size:1rem;
 }
 
-/* group buttons inline with small gaps */
 .meta-actions{
   display:flex;
   align-items:center;
@@ -643,7 +602,6 @@ details.abstract > div {
 .meta-actions details.abstract {
   display: contents;
 }
-/* abstract content ALWAYS drops below the row of buttons */
 .meta-actions details.abstract > .abstract-content {
   flex-basis: 100%;
   width: 100%;
@@ -653,8 +611,6 @@ details.abstract > div {
   color: var(--global-text-color);
 }
 
-
-/* Optional: on very small screens, stack nicely */
 @media (max-width: 520px){
   .meta-row{
     align-items:flex-start;
@@ -665,14 +621,48 @@ details.abstract > div {
   }
 }
 
-.subtitle {
-  font-size: 1.1rem;     /* smaller than h2 */
-  font-weight: normal;    /* not bold */
-  margin-left: 1.5rem;    /* spacing from title */
-  color: var(--global-text-color);  /* keep consistent with text color */
-  text-decoration: underline;   /* underline instead of italic */
 
+.abstract-toggle { display: none; }
+.abstract-content {
+  display: none;          /* hidden until toggled */
+  margin-top: 0.75rem;
+  line-height: 1.5;
+  color: var(--global-text-color);
+  background: transparent;
 }
+.abstract-toggle:checked ~ .abstract-content{ display:block; }
+
+details.abstract summary.btn-outline {
+  background: transparent !important;
+  color: var(--global-theme-color) !important;
+}
+
+details.abstract[open] > summary.btn-outline {
+  background: var(--global-theme-color); /* keep filled look */
+  color: #fff;
+}
+
+details.abstract {
+  display: inline-block;
+  margin-right: 0;
+}
+
+details.abstract summary {
+  list-style: none;
+}
+details.abstract summary::-webkit-details-marker {
+  display: none; 
+}
+
+details.abstract > div {
+  margin-top: 0.75rem;
+  line-height: 1.5;
+  background: transparent;
+  color: var(--global-text-color);
+  flex-basis: 100%;      /* forces it to drop below buttons */
+}
+
+
 
 
 // Publications
@@ -694,6 +684,14 @@ details.abstract > div {
     font-weight: bolder; 
   }
 
+  .subtitle {
+  font-size: 1.1rem;     /* smaller than h2 */
+  font-weight: normal;    /* not bold */
+  margin-left: 1.5rem;    /* spacing from title */
+  color: var(--global-text-color);  /* keep consistent with text color */
+  text-decoration: underline;   /* underline instead of italic */
+  }
+  
   h2.bibliography {
     color: var(--global-divider-color);
     border-top: 1px solid var(--global-divider-color);

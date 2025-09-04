@@ -131,30 +131,14 @@ blockquote {
   text-align: center;
   margin-bottom: 5px;
   margin-top: 5px;
-  font-family: monospace; 
+  font-family: "Courier New", monospace; 
   }
-
-  .profile .address .pronunciation .main {
-  font-size: 1.05rem;      
-  font-weight: 500;
-  }
-
-  .profile .address .pronunciation .hint {
-  font-size: 0.95rem;
-  font-family: monospace; 
-  color: var(--global-text-color-light);
-  }
-
+  
   @media (max-width: 576px) {
-  .profile .address .pronunciation .main {
-    font-size: 0.95rem;     /* smaller for mobile */
-  }
-  .profile .address .pronunciation .hint {
-    font-size: 0.85rem;     /* smaller for mobile */
-  }
   .profile .address .pronunciation {
     line-height: 1.25;
     margin: 0.4rem 0;
+   font-size: 0.95rem;
   }
 }
 

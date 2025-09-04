@@ -21,7 +21,8 @@ nav_order: 3
 This paper examines the interaction between product entry/exit and consumer demand over the business cycle. I develop a model of product market dynamics featuring endogenous choices of producers and consumers within a unified framework. Utilizing micro-level scanner data, the study estimates the model to capture the responses of producers and consumers during the Great Recession. The findings reveal that producers react to negative demand shocks by reducing entries and increasing exits, with these responses varying according to the underlying consumer demand structure. These heterogeneous reactions intensify welfare losses and amplify the adverse effects of the business cycle, particularly for low-quality products. By exploring the diverse characteristics of products and their impacts, this research highlights the significant role of endogenous choices in shaping aggregate economic outcomes.
     </div>
 </details>
-<br>
+
+<br><br>
 
 <h2> <a
            href="https://geumbipark.github.io/assets/pdf/PZZ_subcontracting_27Aug2025.pdf"

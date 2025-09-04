@@ -630,7 +630,7 @@ footer.sticky-bottom {
   }
 }
 
-.abstract-toggle { display: none; }
+.abstract-toggle + .abstract-content { display: none; }
 .abstract-content {
   display: none;       
   margin-top: 0.75rem;
@@ -638,7 +638,7 @@ footer.sticky-bottom {
   color: var(--global-text-color);
   background: transparent;
 }
-.abstract-toggle:checked ~ .abstract-content{ display:block; }
+.abstract-toggle:checked + .abstract-content { display: block; }
 
 
 

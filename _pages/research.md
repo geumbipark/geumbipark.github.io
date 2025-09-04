@@ -22,7 +22,7 @@ This paper examines the interaction between product entry/exit and consumer dema
             target="_blank"
             >Subcontracting in Federal Spending: Macro and Micro Implications</a></h2>
 with <a
-           href="https://sites.google.com/view/jungminlee71/home?authuser=0"
+           href="https://sites.google.com/a/umich.edu/xqzhou/home?authuser=0"
             target="_blank"
             >Xiaoqing Zhou</a> and <a href="https://sites.google.com/site/sarahzubairy/home?authuser=0"
             target="_blank"
@@ -34,7 +34,7 @@ This paper studies the critical but underexplored role of subcontracting in shap
 <h1>Work in Progress</h1>
 <h2>Products or Productivities</h2>
 with <a
-           href="https://sites.google.com/view/jungminlee71/home?authuser=0"
+           href="https://sites.google.com/view/rohan-shah/home?authuser=0"
             target="_blank"
             >Rohan Shah</a>
 <br><br>                                               

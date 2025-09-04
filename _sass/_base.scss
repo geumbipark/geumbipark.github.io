@@ -615,10 +615,10 @@ details.abstract > div {
 .meta-row{
   display:flex;
   align-items:center;
-  justify-content:space-between; /* coauthor left, buttons right */
-  gap:.75rem;
-  margin:.5rem 0 1rem;
-  flex-wrap:wrap; /* allow wrap on narrow screens */
+  gap: 0.75rem;      /* small space between items */
+  margin: 0.5rem 0 1rem;
+  flex-wrap: wrap;   /* allows wrapping on mobile */
+  justify-content: flex-start;  /* keep everything together on the left */
 }
 
 .meta-left{

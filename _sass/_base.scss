@@ -649,6 +649,11 @@ footer.sticky-bottom {
   text-decoration: underline;   /* underline instead of italic */
   }
   
+  .section-title {
+  border-bottom: 1px solid var(--global-divider-color);
+  padding-bottom: 0.25rem;
+  }
+  
   h2.bibliography {
     color: var(--global-divider-color);
     border-top: 1px solid var(--global-divider-color);

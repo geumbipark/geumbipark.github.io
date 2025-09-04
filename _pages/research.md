@@ -18,7 +18,7 @@ This paper examines the interaction between product entry/exit and consumer dema
 <br>
 
 <h2> <a
-           href="https://geumbipark.github.io/assets/pdf/ assets/pdf/PZZ_subcontracting_27Aug2025.pdf"
+           href="https://geumbipark.github.io/assets/pdf/assets/pdf/PZZ_subcontracting_27Aug2025.pdf"
             target="_blank"
             >Subcontracting in Federal Spending: Macro and Micro Implications</a></h2>
 with <a

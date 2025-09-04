@@ -44,7 +44,7 @@ nav_order: 3
     </div>
   </details>
 
-  <br>
+  <br> <br>
 
   <h1>Work in Progress</h1>
 

@@ -638,19 +638,17 @@ details.abstract > div {
   flex-wrap:wrap;
 }
 
-.meta-actions details.abstract{ 
-  display: inline-block;  /* keep it like other buttons */
-  margin: 0;               /* reset default margin */
-  padding: 0;              /* reset default padding */
+.meta-actions details.abstract {
+  display: contents;
 }
-
 /* abstract content ALWAYS drops below the row of buttons */
-.meta-actions .abstract-content{
-  flex-basis:100%;        /* forces new line under the buttons */
-  margin-top:.75rem;
-  line-height:1.5;
-  background:transparent;
-  color:var(--global-text-color);
+.meta-actions details.abstract > .abstract-content {
+  flex-basis: 100%;
+  width: 100%;
+  margin-top: 0.75rem;
+  line-height: 1.5;
+  background: transparent;
+  color: var(--global-text-color);
 }
 
 /* Optional: on very small screens, stack nicely */

@@ -146,6 +146,12 @@ blockquote {
   }
   
   @media (max-width: 576px) {
+  .profile {
+    float: none;
+    display: block;          /* make it a full-width block */
+    margin: 0 auto 1rem;     /* centers the block itself */
+    text-align: center;      /* keeps caption centered */
+    }
   .address .pronunciation {
     line-height: 1.25;
     margin: 0.4rem 0 1rem 0;

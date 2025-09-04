@@ -52,14 +52,14 @@ and
     This paper studies the critical but underexplored role of subcontracting in shaping the spatial and firm-level effects of federal defense spending. Leveraging newly available data on defense subcontract awards since 2011 and linking them to NETS establishment-level data, we track prime–subcontractor relationships across counties and industries and over time. We document that subcontracting results in widespread geographic relocation of federal dollars, and accounting for these flows leads to local fiscal multipliers that are nearly 20% larger than conventional estimates, based solely on prime contracts location. While subcontracting broadens the spatial reach of federal spending, its average local impact is smaller than that of prime contracts. Establishment-level evidence shows that both prime and subcontract awards increase employment and sales, but the effects for subcontractors are weaker and less persistent, likely due to the shorter and less stable nature of subcontracting relationships. The weaker multiplier effects of subcontracting also reflects the skewed distribution of subcontracts: large manufacturing firms, which are less responsive on the margin, receive a disproportionate share. In contrast, service-sector and smaller firms exhibit stronger and more persistent employment responses but are underrepresented among subcontractors.
   </div>
 
-<br> <br>
+<br> <br><br>
 
 <h1 class="section-title">Work in Progress</h1>
 
 <h2>Products or Productivities</h2>
 with
 <a href="https://sites.google.com/view/rohan-shah/home?authuser=0" target="_blank">Rohan Shah</a>
-<br>
+<br><br>
 
 <h1 class="section-title">Publication</h1>
 

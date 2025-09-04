@@ -579,11 +579,6 @@ footer.sticky-bottom {
   text-decoration: none;
 }
 
-/* Space between buttons */
-.btn-outline + .btn-outline {
-  margin-left: 0.5rem;
-}
-
 /* Keep Abstract button always looking the same */
 details.abstract summary.btn-outline {
   background: transparent !important;
@@ -643,7 +638,11 @@ details.abstract > div {
   flex-wrap:wrap;
 }
 
-.meta-actions details.abstract{ display: contents; }
+.meta-actions details.abstract{ 
+  display: inline-block;  /* keep it like other buttons */
+  margin: 0;               /* reset default margin */
+  padding: 0;              /* reset default padding */
+}
 
 /* abstract content ALWAYS drops below the row of buttons */
 .meta-actions .abstract-content{
@@ -666,7 +665,7 @@ details.abstract > div {
 }
 
 .subtitle {
-  font-size: 0.85rem;     /* smaller than h2 */
+  font-size: 1rem;     /* smaller than h2 */
   font-weight: normal;    /* not bold */
   font-style: italic;     /* optional: italic for a parenthetical note */
   margin-left: 0.5rem;    /* spacing from title */

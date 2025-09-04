@@ -572,32 +572,42 @@ footer.sticky-bottom {
   cursor: pointer;
 }
 
-/* Hover + open state */
-.btn-outline:hover,
-details.abstract[open] > summary.btn-outline {
+/* Hover state (fill with theme color) */
+.btn-outline:hover {
   background: var(--global-theme-color);
   color: #fff;
   text-decoration: none;
 }
 
-/* Abstract details wrapper */
-details.abstract {
-  display: inline-block;
+/* Abstract button should stay outlined even when open */
+details.abstract[open] > summary.btn-outline {
+  background: transparent;
+  color: var(--global-theme-color);
 }
 
+/* Abstract wrapper */
+details.abstract {
+  display: inline-block;
+  margin-right: 0.5rem; /* spacing like buttons */
+}
+
+/* Abstract button */
 details.abstract summary {
   list-style: none;
 }
 
 details.abstract summary::-webkit-details-marker {
-  display: none; /* hide arrow */
+  display: none; /* hide default arrow */
 }
 
+/* Abstract content */
 details.abstract > div {
   margin-top: 0.75rem;
   line-height: 1.5;
+  background: transparent;   /* no dark background */
+  color: var(--global-text-color);
+  padding: 0;                /* no extra box padding */
 }
-
 
 
 

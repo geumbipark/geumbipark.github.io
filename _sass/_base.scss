@@ -655,10 +655,11 @@ details.abstract > div {
 }
 
 .subtitle {
-  font-size: 0.85rem;      /* smaller text */
-  font-weight: normal;     /* not bold */
-  margin-left: 0.5rem;     /* small space from the title */
-  color: var(--global-text-color); /* keep consistent color */
+  font-size: 0.85rem;     /* smaller than h2 */
+  font-weight: normal;    /* not bold */
+  font-style: italic;     /* optional: italic for a parenthetical note */
+  margin-left: 0.5rem;    /* spacing from title */
+  color: var(--global-text-color);  /* keep consistent with text color */
 }
 
 

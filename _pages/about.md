@@ -8,8 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-     <p class="pronunciation">
+  address: |
+    <p class="pronunciation">
       <span class="main">Pronounced as "Geum-B"</span><br>
       <span class="hint">(like "Gumby")</span>
     </p>

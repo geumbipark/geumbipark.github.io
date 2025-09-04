@@ -599,18 +599,6 @@ footer.sticky-bottom {
   flex-wrap:wrap;
 }
 
-.meta-actions details.abstract {
-  display: contents;
-}
-.meta-actions details.abstract > .abstract-content {
-  flex-basis: 100%;
-  width: 100%;
-  margin-top: 0.75rem;
-  line-height: 1.5;
-  background: transparent;
-  color: var(--global-text-color);
-}
-
 @media (max-width: 520px){
   .meta-row{
     align-items:flex-start;
@@ -621,46 +609,15 @@ footer.sticky-bottom {
   }
 }
 
-
 .abstract-toggle { display: none; }
 .abstract-content {
-  display: none;          /* hidden until toggled */
+  display: none;       
   margin-top: 0.75rem;
   line-height: 1.5;
   color: var(--global-text-color);
   background: transparent;
 }
 .abstract-toggle:checked ~ .abstract-content{ display:block; }
-
-details.abstract summary.btn-outline {
-  background: transparent !important;
-  color: var(--global-theme-color) !important;
-}
-
-details.abstract[open] > summary.btn-outline {
-  background: var(--global-theme-color); /* keep filled look */
-  color: #fff;
-}
-
-details.abstract {
-  display: inline-block;
-  margin-right: 0;
-}
-
-details.abstract summary {
-  list-style: none;
-}
-details.abstract summary::-webkit-details-marker {
-  display: none; 
-}
-
-details.abstract > div {
-  margin-top: 0.75rem;
-  line-height: 1.5;
-  background: transparent;
-  color: var(--global-text-color);
-  flex-basis: 100%;      /* forces it to drop below buttons */
-}
 
 
 

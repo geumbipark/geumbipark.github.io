@@ -122,42 +122,45 @@ blockquote {
   color: var(--global-theme-color);
 }
 
+
+
 // Profile
 
 .profile {
-  width: auto;                /* or unset */
-  display: inline-block;    /* lets the block hug the image width */
-  max-width: 320px;           /* pick your image max size */
-  float: right;               /* or use your .float-right class */
-  margin-left: 1.25rem;       /* gap from text */
-  text-align: center;         /* centers the caption under the photo */
+  width: auto;                
+  display: inline-block;    
+  max-width: 320px;         
+  float: right;             
+  margin-left: 1.25rem;     
+  text-align: center;       
+}
 
-  img {
+.profile img {
     display: block;
     width: 100%;
     height: auto;
-  }
-  
-  .address .pronunciation {
+}
+
+.address .pronunciation {
   text-align: center;
   margin-bottom: 5px;
   margin-top: 5px;
   font-family: "Courier New", monospace; 
-  }
-  
-  @media (max-width: 576px) {
+}
+
+
+@media (max-width: 576px) {
   .profile {
     float: none;
-    display: block;          /* make it a full-width block */
-    margin: 0 auto 1rem;     /* centers the block itself */
-    text-align: center;      /* keeps caption centered */
+    display: block;          
+    margin: 0 auto 1rem;     
+    text-align: center;      
     }
   .address .pronunciation {
     line-height: 1.25;
-    margin: 0.4rem 0 1rem 0;
-   font-size: 0.95rem;
+    margin: 0.4rem 0 2rem 0;
+    font-size: 0.9rem;
    }
-  }
 }
 
 .profile.float-right {

@@ -10,6 +10,7 @@ nav_order: 3
 <!-- _pages/research.md -->
 <div class="publications">
 
+<!-- Working Papers -->
 <h1 class="section-title">Working Papers</h1>
 
 <h2>Product Market Dynamics over the Business Cycle  <span class="subtitle">[Job Market Paper]</span></h2>
@@ -46,7 +47,7 @@ and
 
       <a href="/assets/pdf/Subcontracting_and_impact_on_local_multipliers.pdf" class="btn-outline" target="_blank">PDF</a>
     </div>
-  </div>
+</div>
   
 <input id="abs-sub-1" type="checkbox" class="abstract-toggle">
   <div class="abstract-content">
@@ -55,20 +56,7 @@ This paper studies the critical but underexplored role of subcontracting in shap
 
 <br><br>
 
-<h1 class="section-title">Works in Progress</h1>
-
-<h2>Products or Productivities</h2>
-with
-<a href="https://sites.google.com/view/rohan-shah/home?authuser=0" target="_blank">Rohan Shah</a>
-
-<br><br>
-
-<h2>Corporate Governance and Marginal Tax Cuts: The Influence of Institutional Investors </h2>
-with
-<a href="https://sites.google.com/view/sunjuhwang/home?authuser=0" target="_blank">Sunju Hwang</a>
-
-<br><br>
-
+<!-- Publication -->
 <h1 class="section-title">Publication</h1>
 
 <h2>Minimum Wage, Employment, and Margins of Adjustment: Evidence from Employer-Employee Matched Panel Data</h2>
@@ -94,7 +82,22 @@ We decompose the employment effect of the minimum wage into changes in employmen
 </div>  
 <br>
 <i><b>Journal of Human Resources</b>, January 2026, Vol.61, No. 1: 211-239</i>
-<br>
+
+<br><br>
+
+<!-- Works in Progress -->
+<h1 class="section-title">Works in Progress</h1>
+
+<h2>Products or Productivities</h2>
+with
+<a href="https://sites.google.com/view/rohan-shah/home?authuser=0" target="_blank">Rohan Shah</a>
+
+<br><br>
+
+<h2>Corporate Governance and Marginal Tax Cuts: The Influence of Institutional Investors </h2>
+with
+<a href="https://sites.google.com/view/sunjuhwang/home?authuser=0" target="_blank">Sunju Hwang</a>
+
 
 
 

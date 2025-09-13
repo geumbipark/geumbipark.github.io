@@ -98,7 +98,7 @@ We decompose the employment effect of the minimum wage into changes in employmen
 with
 <a href="https://sites.google.com/view/rohan-shah/home?authuser=0" target="_blank">Rohan Shah</a>
 
-<br>
+<br><br>
 
 <h2>Corporate Governance and Marginal Tax Cuts: The Influence of Institutional Investors </h2>
 with

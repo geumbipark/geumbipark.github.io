@@ -665,9 +665,16 @@ footer.sticky-bottom {
   }
   
   .section-title {
-  border-bottom: 1px solid var(--global-divider-color);
-  padding-bottom: 0.25rem;
+  border-bottom: none;
+  padding-bottom: 0;
+  margin-bottom: 0.75rem;
   }
+
+  .pub-section {
+  padding-bottom: .75rem;                  /* space above the line */
+  margin-bottom: 1.25rem;                  /* space below the line */
+  border-bottom: 1px solid var(--global-divider-color);
+}
   
   h2.bibliography {
     color: var(--global-divider-color);

@@ -91,7 +91,6 @@ We decompose the employment effect of the minimum wage into changes in employmen
 </section>
 
 <!-- Works in Progress -->
-<section class="pub-section">
 <h1 class="section-title">Works in Progress</h1>
 
 <h2>Products or Productivities</h2>
@@ -103,7 +102,5 @@ with
 <h2>Corporate Governance and Marginal Tax Cuts: The Influence of Institutional Investors </h2>
 with
 <a href="https://sites.google.com/view/sunjuhwang/home?authuser=0" target="_blank">Sunju Hwang</a>
-
-</section>
 
 </div>

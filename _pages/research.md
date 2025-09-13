@@ -55,7 +55,7 @@ This paper studies the critical but underexplored role of subcontracting in shap
 
 <br><br>
 
-<h1 class="section-title">Work in Progress</h1>
+<h1 class="section-title">Works in Progress</h1>
 
 <h2>Products or Productivities</h2>
 with

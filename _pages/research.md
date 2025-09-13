@@ -61,6 +61,13 @@ This paper studies the critical but underexplored role of subcontracting in shap
 <h2>Products or Productivities</h2>
 with
 <a href="https://sites.google.com/view/rohan-shah/home?authuser=0" target="_blank">Rohan Shah</a>
+
+<br><br>
+
+<h2>Corporate Governance and Marginal Tax Cuts: The Influence of Institutional Investors </h2>
+with
+<a href="https://sites.google.com/view/sunjuhwang/home?authuser=0" target="_blank">Sunju Hwang</a>
+
 <br><br>
 
 <h1 class="section-title">Publication</h1>

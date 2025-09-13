@@ -11,6 +11,7 @@ nav_order: 3
 <div class="publications">
 
 <!-- Working Papers -->
+<section class="pub-section">
 <h1 class="section-title">Working Papers</h1>
 
 <h2>Product Market Dynamics over the Business Cycle  <span class="subtitle">[Job Market Paper]</span></h2>
@@ -54,9 +55,11 @@ and
 This paper studies the critical but underexplored role of subcontracting in shaping the spatial and firm-level effects of federal government spending. Leveraging newly available data on defense subcontract awards since 2011, linked with NETS establishment-level data, we examine prime–subcontractor relationships across counties, industries and time. We document three stylized facts: (1) subcontracting leads to widespread geographic relocation of federal dollars; (2) it reallocates spending across sectors, notably from service-sector primes to manufacturing subcontractors; and (3) large firms dominate subcontracting networks, even receiving subawards from smaller primes. Accounting for this geographic relocation shows that conventional estimates understate local multiplier effects by approximately 20%. While subcontracting broadens the spatial reach of federal spending, its average local impact is smaller than that of prime contracts. Establishment-level evidence shows that, subcontractors&mdash;especially large ones and those in goods sectors&mdash;exhibit weaker and less persistent employment and revenue gains than prime contractors, reflecting the shorter and less stable nature of subcontracts. These weaker multipliers also stem from the skewed distribution of subcontracts toward large manufacturers. Overall, our findings reveal substantial heterogeneity in how procurement opportunities diffuse through the private sector and shape the effects of federal spending.
   </div>
 
-<br><br>
+<br>
+</section>
 
 <!-- Publication -->
+<section class="pub-section">
 <h1 class="section-title">Publication</h1>
 
 <h2>Minimum Wage, Employment, and Margins of Adjustment: Evidence from Employer-Employee Matched Panel Data</h2>
@@ -82,10 +85,13 @@ We decompose the employment effect of the minimum wage into changes in employmen
 </div>  
 <br>
 <i><b>Journal of Human Resources</b>, January 2026, Vol.61, No. 1: 211-239</i>
+<br>
 
-<br><br>
+<br>
+</section>
 
 <!-- Works in Progress -->
+<section class="pub-section">
 <h1 class="section-title">Works in Progress</h1>
 
 <h2>Products or Productivities</h2>
@@ -98,7 +104,6 @@ with
 with
 <a href="https://sites.google.com/view/sunjuhwang/home?authuser=0" target="_blank">Sunju Hwang</a>
 
-
-
+</section>
 
 </div>

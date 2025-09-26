@@ -75,6 +75,25 @@ blockquote {
     font-weight: bold;
   }
 }
+.header-section {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+
+/* default (desktop) ordering */
+.header-section .myname   { order: 1; }
+.header-section .profile  { order: 2; }
+
+/* mobile: force name before picture */
+@media (max-width: 576px) {
+  .header-section {
+    flex-direction: column;   /* stack items */
+  }
+  .header-section .myname  { order: 1; }
+  .header-section .profile { order: 2; }
+}
+
 
 // Math
 

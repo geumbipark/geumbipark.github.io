@@ -342,6 +342,18 @@ blockquote {
   }
 }
 
+// hide scroll bar in the mobile
+@media (max-width: 576px) {
+  ::-webkit-scrollbar {
+    display: none;   /* Chrome, Safari */
+  }
+  body {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;     /* Firefox */
+  }
+}
+
+
 // Social (bottom)
 
 .social {
@@ -1059,6 +1071,8 @@ nav[data-toggle="toc"] {
     top: 0;
   }
 }
+
+
 
 /* Tips, warnings, and dangers blockquotes */
 .post .post-content blockquote {

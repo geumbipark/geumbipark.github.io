@@ -16,7 +16,7 @@ nav_order: 4
             target="_blank"
             >Macroeconomic Theory</a> (Undergraduate), Summer 2023 <br>
 Macroeconomics Qualifier Camp (Ph.D.), Summer 2022
-<br>
+<br><br>
 
 <h2>Teaching Assistant</h2>
 Macroeconomic Theory <a

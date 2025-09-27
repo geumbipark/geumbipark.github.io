@@ -72,32 +72,6 @@ blockquote {
 
 h1.myname { font-size: 2.2rem; font-weight: bold; }
 
-/* Wrap name + photo (+ pronunciation) in a flex container */
-.header-section {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  gap: 1rem;
-}
-
-/* Remove float when inside the flex wrapper so order works */
-.header-section .profile { float: none; }
-
-/* --- MOBILE: photo first, then name --- */
-@media (max-width: 576px) {
-  .header-section { flex-direction: column; }
-  .header-section .profile   { order: 1; align-self: center; }
-  .header-section h1.myname  { order: 2; }
-  .header-section .address   { order: 3; } /* pronunciation */
-}
-
-/* --- DESKTOP: name on left, photo on right --- */
-@media (min-width: 577px) {
-  .header-section h1.myname { order: 1; }
-  .header-section .profile  { order: 2; margin-left: auto; } /* pushes photo right */
-  .header-section .address  { order: 3; width: 100%; }       /* line-break under */
-}
-
 
 // Math
 

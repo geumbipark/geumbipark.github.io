@@ -71,6 +71,34 @@ blockquote {
 // Myname
 
 h1.myname { font-size: 2.2rem; font-weight: bold; }
+/* MOBILE: picture first, keep it large */
+@media (max-width: 576px) {
+  .header-section {
+    display: flex;          /* ensure the wrapper is flex */
+    flex-direction: column; /* stack items */
+    gap: .75rem;
+  }
+
+  /* photo first */
+  .header-section .profile {
+    order: 1;
+    float: none !important;   /* cancel previous float */
+    max-width: none !important; /* remove the 320px cap */
+    width: auto;
+    align-self: center;        /* center the block */
+    margin: 0 auto .5rem;
+  }
+
+  .header-section .profile img {
+    width: 82vw;        /* nice mobile size */
+    max-width: 420px;   /* don't overshoot on big phones */
+    height: auto;
+    display: block;
+  }
+
+  .header-section h1.myname { order: 2; }  /* name second */
+  .header-section .address   { order: 3; }  /* pronunciation third */
+}
 
 
 // Math

@@ -41,6 +41,31 @@ h3 { font-size: 1.25rem; }
   text-align: center;
 }
 
+/* Center the auto profile block on mobile and control order visually */
+@media (max-width: 576px) {
+  .name--mobile { display: block; }        /* show mobile name */
+  .myname { display: none; }               /* hide desktop name on mobile */
+
+  /* Center the auto-rendered profile block */
+  .profile {
+    float: none !important;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto .5rem;
+    text-align: center;
+  }
+  .profile img {
+    display: block;
+    width: 82vw;
+    max-width: 420px;
+    height: auto;
+  }
+
+  /* pronunciation already lives inside .profile via the theme; keep it centered */
+  .address .pronunciation { text-align: center; }
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -86,35 +111,6 @@ blockquote {
   padding: 0.5em 10px;
   font-size: 1.2rem;
 }
-
-// Myname
-
-/* MOBILE: picture centered (and, if you remove `profile:` from front-matter, order works too) */
-@media (max-width: 576px) {
-  .header-section {
-    display: flex;
-    flex-direction: column;
-    gap: .75rem;
-  }
-  .header-section .profile {
-    order: 1;
-    float: none !important;
-    max-width: none !important;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    margin: 0 auto .5rem;
-  }
-  .header-section .profile img {
-    width: 82vw;
-    max-width: 420px;
-    height: auto;
-    display: block;
-  }
-  .header-section .myname h1 { order: 2; text-align: center; }
-  .header-section .address   { order: 3; text-align: center; }
-}
-
 
 // Math
 

@@ -363,6 +363,9 @@ blockquote {
   }
 }
 
+// right nudge
+:root { --mobile-nudge-x: 6px; }
+@media (max-width: 576px) { .profile { transform: translateX(var(--mobile-nudge-x)); } }
 
 // Social (bottom)
 

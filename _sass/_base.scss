@@ -4,22 +4,26 @@
 
 // Typography
 
-p,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-em,
-div,
-li,
-span,
-strong {
+/* Body text only (no headings here) */
+p, em, div, li, span, strong {
   color: var(--global-text-color);
   font-size: 1.1rem;
-  font-weight: 350;
+  font-weight: 500;     /* a touch thicker like your reference */
+  line-height: 1.6;
 }
+
+/* Headings: restore proper sizes */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--global-text-color);
+  line-height: 1.2;
+  font-weight: 700;
+  margin: 0 0 .5rem;
+}
+
+/* responsive sizes (tweak as you like) */
+h1 { font-size: clamp(1.9rem, 5.5vw, 2.4rem); }
+h2 { font-size: clamp(1.4rem, 3.6vw, 1.8rem); }
+h3 { font-size: 1.25rem; }
 
 
 hr {

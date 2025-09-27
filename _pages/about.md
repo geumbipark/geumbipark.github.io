@@ -19,13 +19,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+<!-- mobile-only name shown BEFORE the auto profile block -->
+<h1 class="name--mobile">{{ site.first_name }} {{ site.last_name }}</h1>
+
 <!-- _pages/about.md -->
 <div class="header-section">
-<div class="myname">
+ <div class="myname">
 
-<h1> {{ site.first_name }} {{ site.last_name }}</h1>
+  <h1> {{ site.first_name }} {{ site.last_name }}</h1>
 
-</div>
+ </div>
 </div>
 
 <br>

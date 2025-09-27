@@ -32,6 +32,15 @@ h3 { font-size: 1.25rem; }
   margin: 0;
 }
 
+/* mobile-only name (appears before the auto profile block) */
+.name--mobile {
+  display: none;              /* hidden by default (desktop) */
+  font-size: clamp(2.0rem, 6vw, 2.6rem);
+  font-weight: 800;
+  margin: 0 0 .5rem 0;
+  text-align: center;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }

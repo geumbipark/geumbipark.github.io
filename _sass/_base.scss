@@ -186,20 +186,6 @@ blockquote {
   font-size: 0.6rem;
 }
 
-@media (max-width: 576px) {
-  .profile {
-    float: none !important;
-    display: block;          
-    margin: 0 auto 1rem;     
-    text-align: center;      
-    }
-  .address .pronunciation {
-    line-height: 1.25;
-    margin: 0.4rem 0 2.5rem 0;
-    font-size: 0.5rem;
-   }
-}
-
 .profile.float-right {
   margin-left: 1rem;
 }

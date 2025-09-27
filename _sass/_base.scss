@@ -79,9 +79,12 @@ blockquote {
 }
 
 // Myname
+h1.myname {
+  font-size: 2.2rem;
+  font-weight: bold;
+}
 
-h1.myname { font-size: 2.2rem; font-weight: bold; }
-/* MOBILE: picture first, keep it large */
+/* MOBILE: picture first, keep it large + centered */
 @media (max-width: 576px) {
   .header-section {
     display: flex;          /* ensure the wrapper is flex */
@@ -92,24 +95,24 @@ h1.myname { font-size: 2.2rem; font-weight: bold; }
   /* photo first */
   .header-section .profile {
     order: 1;
-    float: none !important;   /* cancel previous float */
+    float: none !important;     /* cancel previous float */
     max-width: none !important; /* remove the 320px cap */
-    width: auto;
-    align-self: center;        /* center the block */
+    width: 100%;                /* full width so we can center */
+    display: flex;              /* enable flex centering */
+    justify-content: center;    /* center image horizontally */
     margin: 0 auto .5rem;
   }
 
   .header-section .profile img {
     width: 82vw;        /* nice mobile size */
-    max-width: 420px;   /* don't overshoot on big phones */
+    max-width: 420px;   /* don’t overshoot */
     height: auto;
     display: block;
   }
 
-  .header-section h1.myname { order: 2; }  /* name second */
-  .header-section .address   { order: 3; }  /* pronunciation third */
+  .header-section h1.myname { order: 2; text-align: center; }  /* name second */
+  .header-section .address   { order: 3; text-align: center; } /* pronunciation third */
 }
-
 
 // Math
 

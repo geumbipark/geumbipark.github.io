@@ -47,6 +47,7 @@ and
       <label for="abs-sub-1" class="btn-outline">Abstract</label>
 
       <a href="/assets/pdf/Subcontracting_and_impact_on_local_multipliers.pdf" class="btn-outline" target="_blank">PDF</a>
+      <a href="[https://www.dallasfed.org/research/papers/2025/wp2535]" target="_blank"><i>Dallas Fed WP</i></a>
     </div>
 </div>
   
@@ -54,10 +55,6 @@ and
   <div class="abstract-content">
 This paper studies the critical but underexplored role of subcontracting in shaping the spatial and firm-level effects of federal government spending. Leveraging newly available data on defense subcontract awards since 2011, linked with NETS establishment-level data, we examine prime–subcontractor relationships across counties, industries and time. We document three stylized facts: (1) subcontracting leads to widespread geographic relocation of federal dollars; (2) it reallocates spending across sectors, notably from service-sector primes to manufacturing subcontractors; and (3) large firms dominate subcontracting networks, even receiving subawards from smaller primes. Accounting for this geographic relocation shows that conventional estimates understate local multiplier effects by approximately 20%. While subcontracting broadens the spatial reach of federal spending, its average local impact is smaller than that of prime contracts. Establishment-level evidence shows that, subcontractors&mdash;especially large ones and those in goods sectors&mdash;exhibit weaker and less persistent employment and revenue gains than prime contractors, reflecting the shorter and less stable nature of subcontracts. These weaker multipliers also stem from the skewed distribution of subcontracts toward large manufacturers. Overall, our findings reveal substantial heterogeneity in how procurement opportunities diffuse through the private sector and shape the effects of federal spending.
   </div>
-<br>
-<a href="[https://www.dallasfed.org/research/papers/2025/wp2535]" target="_blank"><i>Dallas Fed Working Paper No.2535</i></a>
-
-https://www.dallasfed.org/research/papers/2025/wp2535
 <br>
 </section>
 

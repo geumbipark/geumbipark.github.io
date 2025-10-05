@@ -33,7 +33,7 @@ nav_order: 3
 
 <h2>
   <a href="https://geumbipark.github.io/assets/pdf/Subcontracting_and_impact_on_local_multipliers.pdf" target="_blank">
-    Subcontracting in Federal Spending: Macro and Micro Implications
+    Subcontracting in Federal Spending: Micro and Macro Implications
   </a>
 </h2>
  <div class="meta-row">

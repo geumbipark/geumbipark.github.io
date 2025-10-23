@@ -43,7 +43,7 @@ I will be on the job market in the 2025–26 academic year.
 <br><br>
   
 <b>`Research Interests`</b><br>
-Fields: Macroeconomics (primary), Industrial Organization (secondary)<br>
+Fields: Macroeconomics, Industrial Organization, Public Economics<br>
 Topics: Firm Dynamics, Fiscal Policy, Labor <br>
 
 

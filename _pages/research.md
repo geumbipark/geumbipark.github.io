@@ -15,8 +15,7 @@ nav_order: 3
 <h1 class="section-title">Working Papers</h1>
 
 <h2>
-    <a href="https://geumbipark.github.io/assets/pdf/Geumbi_Park_JMP_Draft.pdf" target="_blank">
-    Product Market Dynamics over the Business Cycle </a> <span class="subtitle">[Job Market Paper]</span></h2>
+    Product Market Dynamics over the Business Cycle <span class="subtitle">[Job Market Paper]</span></h2>
 <div class="meta-row">
  
     <div class="meta-actions">
@@ -34,9 +33,7 @@ Business cycles reshape product market dynamics, which exhibit substantial heter
 <br>
 
 <h2>
-  <a href="https://geumbipark.github.io/assets/pdf/Subcontracting_and_impact_on_local_multipliers.pdf" target="_blank">
-    Subcontracting in Federal Spending: Micro and Macro Implications
-  </a>
+  Subcontracting in Federal Spending: Micro and Macro Implications
 </h2>
  <div class="meta-row">
     <span class="meta-left"> 

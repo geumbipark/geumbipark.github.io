@@ -21,6 +21,7 @@ nav_order: 3
  
     <div class="meta-actions">
       <label for="abs-jmp-1" class="btn-outline">Abstract</label>
+    <a href="/assets/pdf/Geumbi_Park_JMP_Draft.pdf" class="btn-outline" target="_blank">PDF</a>
     </div>
 </div>
 

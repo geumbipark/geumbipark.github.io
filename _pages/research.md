@@ -14,11 +14,11 @@ nav_order: 3
 <section class="pub-section">
 <h1 class="section-title">Working Papers</h1>
 
-<h2>Product Market Dynamics over the Business Cycle  <span class="subtitle">[Job Market Paper]</span></h2>
+<h2>
+    <a href="https://geumbipark.github.io/assets/pdf/Geumbi_Park_JMP_Draft.pdf" target="_blank">
+    Product Market Dynamics over the Business Cycle </a> <span class="subtitle">[Job Market Paper]</span></h2>
 <div class="meta-row">
-    <span class="meta-left"> <i>Draft Coming Soon</i>
-    </span>
-    
+ 
     <div class="meta-actions">
       <label for="abs-jmp-1" class="btn-outline">Abstract</label>
     </div>

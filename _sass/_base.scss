@@ -1173,3 +1173,18 @@ nav[data-toggle="toc"] {
   }
 }
 
+/* ===============================
+   Narrow layout for abstract + presentations
+   =============================== */
+.narrow-block {
+  max-width: 900px;  
+  margin: 0 auto;  
+}
+
+.narrow-block .abstract,
+.narrow-block .presentation-list {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+

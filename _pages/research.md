@@ -36,7 +36,6 @@ ASSA Annual Meeting (2023) SEA Annual Meeting
 </h2>
 
 <br>
-<br>
 
 <h2>
   Subcontracting in Federal Spending: Micro and Macro Implications

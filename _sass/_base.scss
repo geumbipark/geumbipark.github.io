@@ -1158,4 +1158,17 @@ nav[data-toggle="toc"] {
   }
 }
 
+// pdf-embed
+.pdf-embed {
+  width: 100%;
+  height: 700px;
+  border: none;
+}
+
+/* Mobile (<= 768px) — make it fill screen height */
+@media (max-width: 576px) {
+  .pdf-embed {
+    height: 85vh; /* taller and viewport-based */
+  }
+}
 

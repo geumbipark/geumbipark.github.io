@@ -611,20 +611,6 @@ footer.sticky-bottom {
   }
 }
 
-// presentation class
-.presentation-list {
-  font-size: 0.8rem;
-  font-weight: 300;
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-  text-align: justify;
-  text-justify: inter-word;
-  line-height: 1.4;
-}
-
-.presentation-list .label {
-  font-weight: bold;
-}
 
 // buttons for pdf, links, abstract 
 
@@ -711,6 +697,21 @@ footer.sticky-bottom {
   margin-bottom: 1rem;
   font-size: 1.1rem;
   font-weight: bolder;
+}
+
+  // presentation class
+.presentation-list {
+  font-size: 0.8rem;
+  font-weight: 300;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  text-align: justify;
+  text-justify: inter-word;
+  line-height: 1.4;
+}
+
+.presentation-list .label {
+  font-weight: bold;
 }
 
   .subtitle {

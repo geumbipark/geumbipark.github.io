@@ -693,27 +693,6 @@ footer.sticky-bottom {
     font-weight: 500;
   }
 
-  h2:not(.presentation-list) {
-    margin-bottom: 1rem;
-    font-size: 1.1rem;
-    font-weight: bolder;
-  }
-
-  h2.presentation-list {
-    font-size: 0.95rem;      /* smaller than default h2 */
-    font-weight: 300;
-    padding-left: 1.5rem;    /* left & right indent */
-    padding-right: 1.5rem;
-    text-align: justify;     /* both-aligned */
-    text-justify: inter-word;
-    line-height: 1.45;
-    margin-top: 0.75rem;
-  }
-
-  h2.presentation-list .label { font-weight: 700; }
-  font-weight: bold;
-}
-
   .subtitle {
   font-size: 1.1rem;     /* smaller than h2 */
   font-weight: normal;    /* not bold */
@@ -1173,36 +1152,4 @@ nav[data-toggle="toc"] {
   }
 }
 
-/* ===============================
-   Narrow layout for abstract + presentations
-   =============================== */
-.narrow-block {
-  max-width: 900px;  
-  margin: 0 auto;  
-}
-
-.narrow-block .abstract,
-.narrow-block .presentation-list {
-  text-align: justify;
-  text-justify: inter-word;
-}
-
-/* hide by default */
-.abstract-content { display: none; }
-
-/* optional: visually hide the checkbox */
-.abstract-toggle {
-  position: absolute;
-  left: -9999px;
-}
-
-/* show when the checkbox is checked (no wrapper case) */
-.abstract-toggle:checked ~ .abstract-content {
-  display: block;
-}
-
-/* show when the checkbox is checked (with wrapper case) */
-.abstract-toggle:checked ~ .narrow-block .abstract-content {
-  display: block;
-}
 

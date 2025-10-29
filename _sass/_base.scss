@@ -667,12 +667,17 @@ footer.sticky-bottom {
 .abstract-content {
   display: none;      
   max-width: 850px;         
-  padding: 0 1rem;         
   margin-top: 0.75rem;
   line-height: 1.5;
   color: var(--global-text-color);
   background: transparent;
   text-align: justify;
+
+  border: 1px solid rgba(0,0,0,0.15);
+  border-radius: 12px;
+  padding: 1.3rem 1.6rem;
+  margin-left: auto;
+  margin-right: auto;
 }
 .abstract-toggle:checked + .abstract-content { display: block; }
 .abstract-toggle {

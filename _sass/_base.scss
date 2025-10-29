@@ -693,24 +693,24 @@ footer.sticky-bottom {
     font-weight: 500;
   }
 
-  .publications h2:not(.presentation-list) {
-  margin-bottom: 1rem;
-  font-size: 1.1rem;
-  font-weight: bolder;
-}
+  h2:not(.presentation-list) {
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+    font-weight: bolder;
+  }
 
-  // presentation class
-.presentation-list {
-  font-size: 0.8rem;
-  font-weight: 300;
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-  text-align: justify;
-  text-justify: inter-word;
-  line-height: 1.4;
-}
+  h2.presentation-list {
+    font-size: 0.95rem;      /* smaller than default h2 */
+    font-weight: 300;
+    padding-left: 1.5rem;    /* left & right indent */
+    padding-right: 1.5rem;
+    text-align: justify;     /* both-aligned */
+    text-justify: inter-word;
+    line-height: 1.45;
+    margin-top: 0.75rem;
+  }
 
-.presentation-list .label {
+  h2.presentation-list .label { font-weight: 700; }
   font-weight: bold;
 }
 

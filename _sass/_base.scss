@@ -1187,4 +1187,22 @@ nav[data-toggle="toc"] {
   text-justify: inter-word;
 }
 
+/* hide by default */
+.abstract-content { display: none; }
+
+/* optional: visually hide the checkbox */
+.abstract-toggle {
+  position: absolute;
+  left: -9999px;
+}
+
+/* show when the checkbox is checked (no wrapper case) */
+.abstract-toggle:checked ~ .abstract-content {
+  display: block;
+}
+
+/* show when the checkbox is checked (with wrapper case) */
+.abstract-toggle:checked ~ .narrow-block .abstract-content {
+  display: block;
+}
 

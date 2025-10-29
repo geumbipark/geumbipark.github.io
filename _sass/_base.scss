@@ -613,7 +613,7 @@ footer.sticky-bottom {
 
 // presentation class
 .presentation-list {
-  font-size: 1rem;
+  font-size: 0.9rem;
   font-weight: normal;
   padding-left: 1.5rem;
   padding-right: 1.5rem;
@@ -684,6 +684,7 @@ footer.sticky-bottom {
   line-height: 1.5;
   color: var(--global-text-color);
   background: transparent;
+  text-align: justify;
 }
 .abstract-toggle:checked + .abstract-content { display: block; }
 .abstract-toggle {

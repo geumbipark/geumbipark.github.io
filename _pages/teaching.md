@@ -22,4 +22,4 @@ Macroeconomic Theory I, (Ph.D.), Fall 2021, [4.48/5.0]<br>
 Macroeconomic Theory, (Undergraduate), Spring 2025, [3.19/5.0]<br>
 Economic Development (Undergraduate), Spring 2021<br>
 <br><br>
-<small><em>Note:</em> All evaluation scores, if applicable, are rescaled to a uniform range between 1 and 5 for comparison.</small>
+<small>*All evaluation scores, if applicable, are rescaled to a uniform range between 1 and 5 for comparison.</small>

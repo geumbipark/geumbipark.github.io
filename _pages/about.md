@@ -34,13 +34,11 @@ social: true  # includes social icons at the bottom of the page
 <br>
 <b>Hello and welcome to my website! </b><br>
 <br>
-I am a Ph.D. candidate in economics at [Texas A&M University](https://liberalarts.tamu.edu/economics/). <br><be>
+In Fall 2026, I will join Texas State University as an Assistant Professor.<br><br>
+I received my Ph.D. in Economics from [Texas A&M University](https://liberalarts.tamu.edu/economics/) in May 2026. Previously, I was a Dissertation Fellow at the Federal Reserve Board in summer 2024.<br>
 <br>
 My research focuses on macroeconomics and its intersection with industrial organization. I use rich microdata and economic models to study how firms and markets respond to economic shocks and policy. 
-<br><br>
-In 2024, I was a Dissertation Fellow at the Federal Reserve Board.<br><br>
-I am on the 2025-2026 job market.
-<br><br>
+<br><br><br>
   
 <b>`Research Interests`</b><br>
 Fields: Macroeconomics, Industrial Organization, Public Economics<br>
